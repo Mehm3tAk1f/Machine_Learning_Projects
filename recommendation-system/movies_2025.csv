@@ -1,265 +1,272 @@
 genres,title_year,imdb_score,plot_keywords,language,movie_title,director_name,actor_1_name,actor_2_name,actor_3_name
-"Drama, Horror, Mystery",2025,,"winter, widow, shipwreck, iceland, rifle, curse, folklore, 19th century, folk horror, 1860s, fishing village",English,The Damned,Thordur Palsson,Odessa Young,Joe Cole,Siobhan Finneran
-"Action, Crime, Thriller",2025,,"diamond, ex-cop, heist, vengeance, crime, vibrant",English,Den of Thieves 2: Pantera,Christian Gudegast,Gerard Butler,O'Shea Jackson Jr.,Evin Ahmad
-"Comedy, Drama",2025,,"friendship, filmmaking, lgbt, metafiction, asian american",English,Extremely Unique Dynamic,Katherine Dudas,Ivan Leung,Harrison Xu,Hudson Yang
-"Crime, Drama, Thriller",2025,,,English,Laws of Man,Phil Blattenberger,Jacob Keohane,Jackson Rathbone,Richard Brake
-"Action, Drama",2025,,"destiny, mysterious past",English,Man with No Past,James Bamford,Adam Woodward,Marton Csokas,Charlotte Weston
+"Drama, Horror, Mystery",2025,5.7,"winter, widow, shipwreck, iceland, rifle, curse, folklore, 19th century, folk horror, 1860s, fishing village",English,The Damned,Thordur Palsson,Odessa Young,Joe Cole,Siobhan Finneran
+"Action, Crime, Thriller",2025,6.3,"diamond, ex-cop, heist, vengeance, crime, vibrant",English,Den of Thieves 2: Pantera,Christian Gudegast,Gerard Butler,O'Shea Jackson Jr.,Evin Ahmad
+"Comedy, Drama",2025,7.8,"friendship, filmmaking, lgbt, metafiction, asian american",English,Extremely Unique Dynamic,Katherine Dudas,Ivan Leung,Harrison Xu,Hudson Yang
+"Crime, Drama, Thriller",2025,5.6,,English,Laws of Man,Phil Blattenberger,Jacob Keohane,Jackson Rathbone,Richard Brake
+"Action, Drama",2025,4.3,"destiny, mysterious past",English,Man with No Past,James Bamford,Adam Woodward,Marton Csokas,Charlotte Weston
 ,2023,,,English,Riley,Benjamin Howard,Jake Holley,Colin McCalla,Riley Quinn Scott
-Comedy,2025,,"roommates, ghetto, female friendship, rent, racism, best friends, hilarious, farcical, vibrant",English,One of Them Days,Lawrence Lamont,Keke Palmer,SZA,Maude Apatow
-"Horror, Thriller",2025,,"monster, moon, transformation, full moon, infection, car crash, woods, oregon, usa, remake, wolfman, werewolf, childhood home, creature feature, monster movie, lycanthrope, body horror, horror",English,Wolf Man,Leigh Whannell,Christopher Abbott,Julia Garner,Matilda Firth
-"Action, Comedy",2025,,"spy, affectation, aggressive, gun fight, zealous, hilarious, admiring, adoring, ambiguous, enchant, vibrant",English,Back in Action,Seth Gordon,Cameron Diaz,Jamie Foxx,Andrew Scott
-"Action, Crime, Thriller",2025,,"assassin, spy, married couple, secret organization, shootout, poisoning, spies",English,Alarum,Michael Polish,Scott Eastwood,Sylvester Stallone,Willa Fitzgerald
-"Action, Comedy, Family, Science Fiction",2025,,"superhero, supervillain, based on tv series",English,Henry Danger: The Movie,Joe Menendez,Jace Norman,Sean Ryan Fox,Ella Anderson
-"Drama, Thriller, Mystery",2012,,"cambodia, holiday, tourist, market, pregnant wife, duringcreditsstinger",English,Wish You Were Here,Julia Stiles,Isabelle Fuhrman,Mena Massoud,Jimmie Fails
+Comedy,2025,6.5,"roommates, ghetto, female friendship, rent, racism, best friends, hilarious, farcical, vibrant",English,One of Them Days,Lawrence Lamont,Keke Palmer,SZA,Maude Apatow
+"Horror, Thriller",2025,5.6,"monster, moon, transformation, full moon, infection, car crash, woods, oregon, usa, remake, wolfman, werewolf, childhood home, creature feature, monster movie, lycanthrope, body horror, horror",English,Wolf Man,Leigh Whannell,Christopher Abbott,Julia Garner,Matilda Firth
+"Action, Comedy",2025,5.9,"spy, affectation, aggressive, gun fight, zealous, hilarious, admiring, adoring, ambiguous, enchant, vibrant",English,Back in Action,Seth Gordon,Cameron Diaz,Jamie Foxx,Andrew Scott
+"Action, Crime, Thriller",2025,3.3,"assassin, spy, married couple, secret organization, shootout, poisoning, spies",English,Alarum,Michael Polish,Scott Eastwood,Sylvester Stallone,Willa Fitzgerald
+"Action, Comedy, Family, Science Fiction",2025,4.7,"superhero, supervillain, based on tv series",English,Henry Danger: The Movie,Joe Menendez,Jace Norman,Sean Ryan Fox,Ella Anderson
+"Drama, Thriller, Mystery",2012,5.9,"cambodia, holiday, tourist, market, pregnant wife, duringcreditsstinger",English,Wish You Were Here,Julia Stiles,Isabelle Fuhrman,Mena Massoud,Jimmie Fails
 Thriller,2025,,,English,Both Eyes Open,Ariel Julia Hairston,Gail Bean,Taye Diggs,Joy Brunson
 ,,,,,Werewolf Game,Jackie Payne,Tony Todd,Lydia Hearst,Bai Ling
-"Romance, Drama",2025,,"based on novel or book, bad boy, romantic drama",English,Marked Men: Rule + Shaw,Nick Cassavetes,Chase Stokes,Sydney Taylor,Hannah Kepple
-"Action, Thriller",2025,,"hitman, pilot, airplane accident, informant, anchorage, alaska, cessna, federal marshal, accountant",English,Flight Risk,Mel Gibson,Mark Wahlberg,Michelle Dockery,Topher Grace
-"Horror, Thriller, Drama",2025,,"husband wife relationship, new jersey, haunted house, grief, interracial marriage, psychological thriller, entity, death, real estate agent, ghost, voyeurism, family dynamics, death of best friend, first person view, mother son relationship, father daughter relationship, mother daughter relationship, brother sister relationship, supernatural horror, experimental cinema, psychological horror, drugging someone, horror, duchové, paranormální jevy, zlo",English,Presence,Steven Soderbergh,Lucy Liu,Chris Sullivan,Callina Liang
-"Science Fiction, Adventure, Action, TV Movie",2025,,"wormhole, dictatorship, covert operation, blunt, alternate timeline, annihilation, dystopian nightmare, bewildered",English,Star Trek: Section 31,Olatunde Osunsanmi,Michelle Yeoh,Omari Hardwick,Kacey Rohl
+"Romance, Drama",2025,5.2,"based on novel or book, bad boy, romantic drama",English,Marked Men: Rule + Shaw,Nick Cassavetes,Chase Stokes,Sydney Taylor,Hannah Kepple
+"Action, Thriller",2025,5.2,"hitman, pilot, airplane accident, informant, anchorage, alaska, cessna, federal marshal, accountant",English,Flight Risk,Mel Gibson,Mark Wahlberg,Michelle Dockery,Topher Grace
+"Horror, Thriller, Drama",2025,6.1,"husband wife relationship, new jersey, haunted house, grief, interracial marriage, psychological thriller, entity, death, real estate agent, ghost, voyeurism, family dynamics, death of best friend, first person view, mother son relationship, father daughter relationship, mother daughter relationship, brother sister relationship, supernatural horror, experimental cinema, psychological horror, drugging someone, horror, duchové, paranormální jevy, zlo",English,Presence,Steven Soderbergh,Lucy Liu,Chris Sullivan,Callina Liang
+"Science Fiction, Adventure, Action, TV Movie",2025,3.8,"wormhole, dictatorship, covert operation, alternate timeline, annihilation, dystopian nightmare",English,Star Trek: Section 31,Olatunde Osunsanmi,Michelle Yeoh,Omari Hardwick,Kacey Rohl
 "Drama, Mystery, Thriller",2020,5.6,"daughter, father, patriarchy, family secrets, buried memories, hidden truth, dark secret",English,Inheritance,Neil Burger,Phoebe Dynevor,Rhys Ifans,Ciara Baxendale
 Drama,2025,,"based on true story, teacher student relationship, homeless teenager, drama teacher",English,Brave the Dark,Damian Harris,Jared Harris,Nicholas Hamilton,Jamie Harris
-"Horror, Action, Thriller",2025,,"shark attack, treasure hunter, sea pirates",English,Into the Deep,Christian Sesma,Richard Dreyfuss,Scout Taylor-Compton,Jon Seda
+"Horror, Action, Thriller",2025,3.2,"shark attack, treasure hunter, sea pirates",English,Into the Deep,Christian Sesma,Richard Dreyfuss,Scout Taylor-Compton,Jon Seda
 "Drama, History, Comedy, Romance",2024,,"concentration camp, holocaust (shoah), world war ii, based on true story, nazi officer, power of love, nsdap (nazi party), jewish, jews, independent film, romantic",English,Bau: Artist at War,Sean McNamara,Emile Hirsch,Inbar Lavi,Josh Zuckerman
 "Science Fiction, Mystery, Thriller",2020,,,th,Failure!,Alex Kahuam,Ted Raimi,Merrick McCartha,Noel Douglas Orput
-Comedy,2025,,"wedding, father daughter relationship, comedy of errors, destination wedding, father of the bride, sister of the bride, island wedding",English,You're Cordially Invited,Nicholas Stoller,Will Ferrell,Reese Witherspoon,Geraldine Viswanathan
-"Family, Comedy, Adventure, Animation",2025,,"villain, based on children's book, spin off, police dog, human animal hybrid, amused",English,Dog Man,Peter Hastings,Pete Davidson,Lil Rel Howery,Isla Fisher
-"Horror, Science Fiction, Thriller",2025,,"android, artificial intelligence (a.i.), cabin, robot, boyfriend girlfriend relationship, questioning, duringcreditsstinger, philosophical, robot girl, weekend getaway, human android relationship, toxic relationship, abusive relationship, malfunctioning android, sentient machine, sci-fi horror, human vs machines, cybernetics, android horror",English,Companion,Drew Hancock,Sophie Thatcher,Jack Quaid,Lukas Gage
-"Action, War",2025,,,English,Valiant One,Steve Barnett,Chase Stokes,Lana Condor,Desmin Borges
-"Drama, Romance, Science Fiction, Animation",2025,,"artificial intelligence (a.i.), post-apocalyptic future, whirlwind romance, independent film",English,Love Me,Sam Zuchero,Kristen Stewart,Steven Yeun,
+Comedy,2025,5.5,"wedding, father daughter relationship, comedy of errors, destination wedding, father of the bride, sister of the bride, island wedding",English,You're Cordially Invited,Nicholas Stoller,Will Ferrell,Reese Witherspoon,Geraldine Viswanathan
+"Family, Comedy, Adventure, Animation",2025,6.3,"villain, based on children's book, spin off, police dog, human animal hybrid, amused",English,Dog Man,Peter Hastings,Pete Davidson,Lil Rel Howery,Isla Fisher
+"Horror, Science Fiction, Thriller",2025,6.9,"android, artificial intelligence (a.i.), cabin, robot, boyfriend girlfriend relationship, questioning, duringcreditsstinger, philosophical, robot girl, weekend getaway, human android relationship, toxic relationship, abusive relationship, malfunctioning android, sentient machine, sci-fi horror, human vs machines, cybernetics, android horror",English,Companion,Drew Hancock,Sophie Thatcher,Jack Quaid,Lukas Gage
+"Action, War",2025,5.1,,English,Valiant One,Steve Barnett,Chase Stokes,Lana Condor,Desmin Borges
+"Drama, Romance, Science Fiction, Animation",2025,5.1,"artificial intelligence (a.i.), post-apocalyptic future, whirlwind romance, independent film",English,Love Me,Sam Zuchero,Kristen Stewart,Steven Yeun,
 "Thriller, Drama",2025,,,English,Like Father Like Son,Barry Jay,Dylan Flashner,Ariel Winter,Vivica A. Fox
-Drama,2025,,,English,Green and Gold,Anders Lindwall,Craig T. Nelson,Brandon Sklenar,M. Emmet Walsh
+Drama,2025,6.8,,English,Green and Gold,Anders Lindwall,Craig T. Nelson,Brandon Sklenar,M. Emmet Walsh
 "Horror, Adventure",2025,,"new hampshire, evil, horror",English,Round the Decay,Adam Newman,Victoria Mirrer,Damian Maffei,Sienna Hubert-Ross
 "Action, Fantasy, Thriller",2025,,"brother, devil, long lost relative, deal with the devil",English,The Devil and the Daylong Brothers,Brandon McCormick,Brendan Bradley,Nican Robinson,Jordon Bolden
-Drama,2024,,,English,Good Bad Things,Shane D. Stanger,Jessica Parker Kennedy,Brett Dier,Danny Kurtzman
-"Comedy, Romance",2025,,"pregnant, absurd",English,Kinda Pregnant,Tyler Spindel,Amy Schumer,Jillian Bell,Brianne Howey
-"Horror, Comedy, Romance",2025,,"marriage proposal, commercial, holiday, detective, seattle, washington, carousel , female friendship, coffee shop, drive-in theater, serial killer, slasher, police station, killing spree, couple, valentine's day, murder mystery, kink, hilarious, holiday horror",English,Heart Eyes,Josh Ruben,Olivia Holt,Mason Gooding,Gigi Zumbado
-"Action, Comedy, Romance",2025,,"martial arts, sibling relationship, hitman, strip club, real estate agent, valentine's day, action comedy, hidden past, russian mob",English,Love Hurts,Jonathan Eusebio,Ke Huy Quan,Ariana DeBose,Daniel Wu
-Drama,2025,,,English,Jazzy,Morrisa Maltz,Jasmine Bearkiller Shangreaux,Syriah Foohead Means,Lily Gladstone
+Drama,2024,5.8,,English,Good Bad Things,Shane D. Stanger,Jessica Parker Kennedy,Brett Dier,Danny Kurtzman
+"Comedy, Romance",2025,4.9,"pregnant, absurd",English,Kinda Pregnant,Tyler Spindel,Amy Schumer,Jillian Bell,Brianne Howey
+"Horror, Comedy, Romance",2025,6.1,"marriage proposal, commercial, holiday, detective, seattle, washington, carousel , female friendship, coffee shop, drive-in theater, serial killer, slasher, police station, killing spree, couple, valentine's day, murder mystery, kink, hilarious, holiday horror",English,Heart Eyes,Josh Ruben,Olivia Holt,Mason Gooding,Gigi Zumbado
+"Action, Comedy, Romance",2025,5.3,"martial arts, sibling relationship, hitman, strip club, real estate agent, valentine's day, action comedy, hidden past, russian mob",English,Love Hurts,Jonathan Eusebio,Ke Huy Quan,Ariana DeBose,Daniel Wu
+Drama,2025,6.2,,English,Jazzy,Morrisa Maltz,Jasmine Bearkiller Shangreaux,Syriah Foohead Means,Lily Gladstone
 "Comedy, Drama",2025,,,English,I Love You Forever,Cazzie David,Sofia Black-D'Elia,Ray Nicholson,Jon Rudnitsky
-"Science Fiction, Thriller",2025,,artificial intelligence (a.i.),English,Renner,Robert Rippberger,Frankie Muniz,Violett Beane,Taylor Gray
-"Romance, Drama, Science Fiction",2025,,"asteroid, end of the world, thrill seeker",English,When I'm Ready,Andrew Johnson,Andrew Ortenberg,June Schreiner,Thalia Besson
-"Animation, Fantasy, Action",2025,,"based on novel or book, kingdom, lovers, pearls, merpeople, monster hunter",English,The Witcher: Sirens of the Deep,Kang Hei Chul,Doug Cockle,Joey Batey,Anya Chalotra
+"Science Fiction, Thriller",2025,4.6,artificial intelligence (a.i.),English,Renner,Robert Rippberger,Frankie Muniz,Violett Beane,Taylor Gray
+"Romance, Drama, Science Fiction",2025,5.3,"asteroid, end of the world, thrill seeker",English,When I'm Ready,Andrew Johnson,Andrew Ortenberg,June Schreiner,Thalia Besson
+"Animation, Fantasy, Action",2025,6.1,"based on novel or book, kingdom, lovers, pearls, merpeople, monster hunter",English,The Witcher: Sirens of the Deep,Kang Hei Chul,Doug Cockle,Joey Batey,Anya Chalotra
 "Animation, Action",2019,,,German,The Death of Film,Samuel Felinton,Samuel Felinton,Damien Dennis,Declan Mungovan (producer)[43]
-"Romance, Comedy, Drama",2025,,"based on novel or book, female friendship, romcom, sequel",English,Bridget Jones: Mad About the Boy,Michael Morris,Renée Zellweger,Chiwetel Ejiofor,Leo Woodall
+"Romance, Comedy, Drama",2025,6.6,"based on novel or book, female friendship, romcom, sequel",English,Bridget Jones: Mad About the Boy,Michael Morris,Renée Zellweger,Chiwetel Ejiofor,Leo Woodall
 "Romance, Comedy",2025,,"villa, italy, romcom, admiring",English,La Dolce Villa,Mark Waters,Scott Foley,Maia Reficco,Violante Placido
-"Action, Thriller, Science Fiction",2025,,"hero, usa president, the white house, superhero, revenge, summit, aftercreditsstinger, marvel cinematic universe (mcu), sidekick, assassination attempt, political thriller, treaty, international relations, cliché",English,Captain America: Brave New World,Julius Onah,Anthony Mackie,Danny Ramirez,Shira Haas
-"Romance, Science Fiction, Thriller",2025,,"canyon, fog, romance, tower, elite sniper, snipers, suspenseful, long-term observation",English,The Gorge,Scott Derrickson,Miles Teller,Anya Taylor-Joy,Sope Dirisu
-"Drama, Family",2024,,"texas, golf, based on true story, mexican american, 1950s, latino, inspirational",English,The Long Game,Jace Anderson,Kathleen Turner,Jackie Earle Haley,Sekai Abenì
-"Horror, Thriller",2025,,,English,The Dead Thing,Elric Kane,Blu Hunt,Ben Smith-Petersen,
-"Horror, Drama, Thriller, Mystery",2022,,,English,Rounding,Alex Thompson,Namir Smallwood,Sidney Flanigan,Michael Potts
-"Science Fiction, Thriller",2014,,,English,"You, Me & Her",Dan Levy Dagerman,Selina Ringel,Ritesh Rajan,Sydney Park
+"Action, Thriller, Science Fiction",2025,5.7,"hero, usa president, the white house, superhero, revenge, summit, aftercreditsstinger, marvel cinematic universe (mcu), sidekick, assassination attempt, political thriller, treaty, international relations, cliché",English,Captain America: Brave New World,Julius Onah,Anthony Mackie,Danny Ramirez,Shira Haas
+"Romance, Science Fiction, Thriller",2025,6.7,"canyon, fog, romance, tower, elite sniper, snipers, suspenseful, long-term observation",English,The Gorge,Scott Derrickson,Miles Teller,Anya Taylor-Joy,Sope Dirisu
+"Drama, Family",2024,6.7,"texas, golf, based on true story, mexican american, 1950s, latino, inspirational",English,The Long Game,Jace Anderson,Kathleen Turner,Jackie Earle Haley,Sekai Abenì
+"Horror, Thriller",2025,6.4,,English,The Dead Thing,Elric Kane,Blu Hunt,Ben Smith-Petersen,
+"Horror, Drama, Thriller, Mystery",2022,6.5,,English,Rounding,Alex Thompson,Namir Smallwood,Sidney Flanigan,Michael Potts
+"Science Fiction, Thriller",2014,7.4,,English,"You, Me & Her",Dan Levy Dagerman,Selina Ringel,Ritesh Rajan,Sydney Park
 "Romance, Drama",2024,,"romance, love story, international couple, tokyo",English,One Night in Tokyo,Joshua Woodcock,Reza Emamiyeh,Tokiko Kitagawa,
-"Horror, Comedy",2025,,"sibling relationship, shotgun, supernatural, drums, harpoon, dark comedy, gore, twin brother, maine, decapitation, accidental death, wasp, monkey, exploding body, death, evil, evil twin, based on short story, dual role, aftercreditsstinger, cursed, 1990s, father son relationship, mother son relationship, brother brother relationship, toy monkey, supernatural horror, toy, cursed object, horror, disgusted, japanese restaurant, father son estrangement, black comedy",English,The Monkey,Osgood Perkins,Theo James,Tatiana Maslany,Christian Convery
-"Family, Drama",2025,,"sibling relationship, based on novel or book, autism, bullying, based on true story, alcoholism, coming of age, family drama, disability, junior high school, pre-teen, christian faith, autistic child, cliché, condescending, disrespectful",English,The Unbreakable Boy,Jon Gunn,Zachary Levi,Meghann Fahy,Jacob Laval
-Drama,2024,,,English,Millers in Marriage,Edward Burns,Morena Baccarin,Benjamin Bratt,Edward Burns
-"Action, Comedy, Crime",2024,,"mentor protégé relationship, contract killer, gen z",English,Old Guy,Simon West,Christoph Waltz,Lucy Liu,Cooper Hoffman
-"Mystery, Thriller, Drama",2025,,,English,Lifeline,Feras Alfuqaha,Josh Stewart,August Maturo,Charlene Amoia
-"Drama, Science Fiction",2023,,,English,The Buildout,Zeshaan Younus,Jenna Kanell,Hannah Alline,Natasha Halevi
-"Drama, Thriller",2025,,"based on true story, dive, suspenseful, based on documentary, deep-sea",English,Last Breath,Alex Parkinson,Woody Harrelson,Simu Liu,Finn Cole
+"Horror, Comedy",2025,6.0,"sibling relationship, shotgun, supernatural, drums, harpoon, dark comedy, gore, twin brother, maine, decapitation, accidental death, wasp, monkey, exploding body, death, evil, evil twin, based on short story, dual role, aftercreditsstinger, cursed, 1990s, father son relationship, mother son relationship, brother brother relationship, toy monkey, supernatural horror, toy, cursed object, horror, disgusted, japanese restaurant, father son estrangement, black comedy",English,The Monkey,Osgood Perkins,Theo James,Tatiana Maslany,Christian Convery
+"Family, Drama",2025,5.7,"sibling relationship, based on novel or book, autism, bullying, based on true story, alcoholism, coming of age, family drama, disability, junior high school, pre-teen, christian faith, autistic child, cliché, condescending, disrespectful",English,The Unbreakable Boy,Jon Gunn,Zachary Levi,Meghann Fahy,Jacob Laval
+Drama,2024,6.1,,English,Millers in Marriage,Edward Burns,Morena Baccarin,Benjamin Bratt,Edward Burns
+"Action, Comedy, Crime",2024,5.1,"mentor protégé relationship, contract killer, gen z",English,Old Guy,Simon West,Christoph Waltz,Lucy Liu,Cooper Hoffman
+"Mystery, Thriller, Drama",2025,6.8,,English,Lifeline,Feras Alfuqaha,Josh Stewart,August Maturo,Charlene Amoia
+"Drama, Science Fiction",2023,4.2,,English,The Buildout,Zeshaan Younus,Jenna Kanell,Hannah Alline,Natasha Halevi
+"Drama, Thriller",2025,6.6,"based on true story, dive, suspenseful, based on documentary, deep-sea",English,Last Breath,Alex Parkinson,Woody Harrelson,Simu Liu,Finn Cole
 "Comedy, Crime, Drama",2025,,"drug addiction, pregnant woman, mob family, shot to death",English,Riff Raff,Dito Montiel,Jennifer Coolidge,Gabrielle Union,Pete Davidson
-"Comedy, War, Drama",2024,,"army, post-traumatic stress disorder (ptsd), support group, date, afghanistan, female friendship, alzheimer's disease, sunglasses, flirting, shooting game, glowstick, father daughter relationship, mother daughter relationship, motorboat, black woman, running, hilarious, dead best friend",English,My Dead Friend Zoe,Kyle Hausmann-Stokes,Sonequa Martin-Green,Natalie Morales,Ed Harris
-Thriller,2025,,crypto-currencies,English,Cold Wallet,Cutter Hodierne,Raul Castillo,Melonie Diaz,Tony Cavalero
+"Comedy, War, Drama",2024,6.5,"army, post-traumatic stress disorder (ptsd), support group, date, afghanistan, female friendship, alzheimer's disease, sunglasses, flirting, shooting game, glowstick, father daughter relationship, mother daughter relationship, motorboat, black woman, running, hilarious, dead best friend",English,My Dead Friend Zoe,Kyle Hausmann-Stokes,Sonequa Martin-Green,Natalie Morales,Ed Harris
+Thriller,2025,7.3,crypto-currencies,English,Cold Wallet,Cutter Hodierne,Raul Castillo,Melonie Diaz,Tony Cavalero
 Drama,2025,,"california, homelessness, community, gang, aftercreditsstinger, christian film, christian faith, independent film",English,No Address,Julia Verdin,William Baldwin,Ashanti,Xander Berkeley
-"Drama, Thriller",2025,,boxing,English,Uppercut,Torsten Ruether,Ving Rhames,Luise Grossman,Jordan E. Cooper
-"Thriller, Drama, Crime",2025,,,English,The Accidental Getaway Driver,Sing J. Lee,Hiep Tran Nghia,Dustin Nguyen,Dali Benssalah
-"Science Fiction, Comedy, Adventure",2025,,"based on novel or book, dark comedy, space travel, space colony, alien planet, creature, space adventure, human clone, spaceship, space sci-fi, black comedy",English,Mickey 17,Bong Joon-ho,Robert Pattinson,Naomi Ackie,Steven Yeun
-"Science Fiction, Adventure, Action",2025,,"man vs machine, artificial intelligence (a.i.), based on novel or book, technology, dystopia, robot, 1990s, young, missing brother, comedy, depressing, baffled",English,The Electric State,Anthony Russo,Millie Bobby Brown,Chris Pratt,Ke Huy Quan
-"Action, Fantasy, Adventure",2025,,"witch, dystopia, sorcery, betrayal, based on short story, sorceress, high fantasy, survival adventure",English,In the Lost Lands,Paul W. S. Anderson,Milla Jovovich,Dave Bautista,Arly Jover
-"Animation, Adventure, Comedy, Family, Fantasy",2025,,"based on cartoon, based on tv series, 3d animation, hilarious, indifferent",English,Plankton: The Movie,Dave Needham,Mr. Lawrence,Jill Talley,Tom Kenny
-"Comedy, Drama",2024,,,English,On Becoming a Guinea Fowl,Rungano Nyoni,Susan Chardy,Elizabeth Chisela,Henry B.J. Phiri
-"Horror, Comedy, Thriller",2025,,"serial killer, series of murders, true crime, dating app, podcast",English,F*** Marry Kill,Laura Murphy,Lucy Hale,Virginia Gardner,Brooke Nevin
+"Drama, Thriller",2025,5.2,boxing,English,Uppercut,Torsten Ruether,Ving Rhames,Luise Grossman,Jordan E. Cooper
+"Thriller, Drama, Crime",2025,6.6,,English,The Accidental Getaway Driver,Sing J. Lee,Hiep Tran Nghia,Dustin Nguyen,Dali Benssalah
+"Science Fiction, Comedy, Adventure",2025,6.8,"based on novel or book, dark comedy, space travel, space colony, alien planet, creature, space adventure, human clone, spaceship, space sci-fi, black comedy",English,Mickey 17,Bong Joon-ho,Robert Pattinson,Naomi Ackie,Steven Yeun
+"Science Fiction, Adventure, Action",2025,5.9,"man vs machine, artificial intelligence (a.i.), based on novel or book, technology, dystopia, robot, 1990s, young, missing brother, comedy, depressing, baffled",English,The Electric State,Anthony Russo,Millie Bobby Brown,Chris Pratt,Ke Huy Quan
+"Action, Fantasy, Adventure",2025,4.7,"witch, dystopia, sorcery, betrayal, based on short story, sorceress, high fantasy, survival adventure",English,In the Lost Lands,Paul W. S. Anderson,Milla Jovovich,Dave Bautista,Arly Jover
+"Animation, Adventure, Comedy, Family, Fantasy",2025,5.3,"based on cartoon, based on tv series, 3d animation, hilarious, indifferent",English,Plankton: The Movie,Dave Needham,Mr. Lawrence,Jill Talley,Tom Kenny
+"Comedy, Drama",2024,7.0,,English,On Becoming a Guinea Fowl,Rungano Nyoni,Susan Chardy,Elizabeth Chisela,Henry B.J. Phiri
+"Horror, Comedy, Thriller",2025,5.3,"serial killer, series of murders, true crime, dating app, podcast",English,F*** Marry Kill,Laura Murphy,Lucy Hale,Virginia Gardner,Brooke Nevin
 Drama,2025,,"sports, american football, based on true story, sports drama",English,The Senior,Rod Lurie,Michael Chiklis,Mary Stuart Masterson,Rob Corddry
 "Drama, Comedy",2025,,"sports, baseball, massachusetts, male friendship, new england, baseball field, amateur sports, 1990s, baseball game, afternoon",English,Eephus,Carson Lund,Keith William Richards,Frederick Wiseman,Cliff Blake
-Drama,2025,,"sports, biography, pro wrestler, drama",English,Queen of the Ring,Ash Avildsen,Emily Bett Rickards,Kelli Berglund,Walton Goggins
-Drama,2025,,"based on true story, educational, robotics, 2010s, courage, family dinamics",English,Rule Breakers,Bill Guttentag,Nikohl Boosheri,Noorin Gulamgaus,Amber Afzali
+Drama,2025,6.3,"sports, biography, pro wrestler, drama",English,Queen of the Ring,Ash Avildsen,Emily Bett Rickards,Kelli Berglund,Walton Goggins
+Drama,2025,7.0,"based on true story, educational, robotics, 2010s, courage, family dinamics",English,Rule Breakers,Bill Guttentag,Nikohl Boosheri,Noorin Gulamgaus,Amber Afzali
 Horror,2025,,"drowning, military officer, vacation, demon, demonic possession, found footage, japanese folklore, near-death experience, screenlife",English,Bloat,Pablo Absento,Ben McKenzie,Bojana Novakovic,Malcolm Fuller
-"Horror, Comedy",2025,,"poltergeist, gay theme, gay couple",English,The Parenting,Craig Johnson,Nik Dodani,Brandon Flynn,Parker Posey
-Horror,2025,,parasite,English,Control Freak,Shal Ngo,Kelly Marie Tran,Callie Johnson,Miles Robbins
-"Drama, Mystery, Thriller",2025,,"london, england, husband wife relationship, spy, marriage, suspicion, dinner, intelligence officer, calm, polygraph, zurich, switzerland",English,Black Bag,Steven Soderbergh,Cate Blanchett,Michael Fassbender,Marisa Abela
-"Action, Comedy, Thriller",2025,,"pain, superhero, dark comedy, bank robbery, held hostage, speculative, curious, frantic, mischievous, playful, casual, comedy thriller, incredulous, hilarious, comedy, action, whimsical, audacious, defiant, dubious, farcical, one-person film",English,Novocaine,Dan Berk,Jack Quaid,Amber Midthunder,Ray Nicholson
-"Horror, Mystery, Thriller",2025,,"pop star, cult, psychological thriller, cult of celebrity, mysterious disappearance",English,Opus,Mark Anthony Green,Ayo Edebiri,John Malkovich,Juliette Lewis
-"Drama, Mystery, Thriller",2025,,"based on novel or book, ohio, 1950s",English,The Actor,Duke Johnson,André Holland,Gemma Chan,May Calamawy
-"Drama, Thriller",2024,,"london, england, copenhagen, denmark, blackmail, drunk, text messaging, oral sex, gynaecology, sexual blackmail, affair",English,Borderline,Jimmy Warden,Samara Weaving,Ray Nicholson,Jimmie Fails
+"Horror, Comedy",2025,5.7,"poltergeist, gay theme, gay couple",English,The Parenting,Craig Johnson,Nik Dodani,Brandon Flynn,Parker Posey
+Horror,2025,4.5,parasite,English,Control Freak,Shal Ngo,Kelly Marie Tran,Callie Johnson,Miles Robbins
+"Drama, Mystery, Thriller",2025,6.8,"london, england, husband wife relationship, spy, marriage, suspicion, dinner, intelligence officer, calm, polygraph, zurich, switzerland",English,Black Bag,Steven Soderbergh,Cate Blanchett,Michael Fassbender,Marisa Abela
+"Action, Comedy, Thriller",2025,6.5,"pain, superhero, dark comedy, bank robbery, held hostage, speculative, curious, frantic, mischievous, playful, casual, comedy thriller, incredulous, hilarious, comedy, action, whimsical, audacious, defiant, dubious, farcical, one-person film",English,Novocaine,Dan Berk,Jack Quaid,Amber Midthunder,Ray Nicholson
+"Horror, Mystery, Thriller",2025,5.7,"pop star, cult, psychological thriller, cult of celebrity, mysterious disappearance",English,Opus,Mark Anthony Green,Ayo Edebiri,John Malkovich,Juliette Lewis
+"Drama, Mystery, Thriller",2025,5.7,"based on novel or book, ohio, 1950s",English,The Actor,Duke Johnson,André Holland,Gemma Chan,May Calamawy
+"Drama, Thriller",2024,4.9,"london, england, copenhagen, denmark, blackmail, drunk, text messaging, oral sex, gynaecology, sexual blackmail, affair",English,Borderline,Jimmy Warden,Samara Weaving,Ray Nicholson,Jimmie Fails
 "Drama, War, History",2025,,"concentration camp, holocaust (shoah), based on true story, period drama, historical drama, 1940s",English,The World Will Tremble,Lior Geller,Oliver Jackson-Cohen,Jeremy Neumark Jones,Anton Lesser
-"Action, Crime, Thriller",2025,,casino heist,English,High Rollers,Ives,John Travolta,Gina Gershon,Lukas Haas
+"Action, Crime, Thriller",2025,3.8,casino heist,English,High Rollers,Ives,John Travolta,Gina Gershon,Lukas Haas
 Drama,2024,,,English,The Last Supper,Mauro Borrelli,Jamie Ward,James Faulkner,Nathalie Rapti Gomex
 "Animation, Action",2025,,"based on comic, duringcreditsstinger",Japanese,Batman Ninja vs. Yakuza League,Junpei Mizusaki,Joe Daniels,Nathan Wilson,David Harbold
-"Music, Drama, Science Fiction",2025,,"post-apocalyptic future, rock opera",English,O'Dessa,Geremy Jasper,Sadie Sink,Kelvin Harrison Jr.,Murray Bartlett
-"Romance, Comedy, Crime",2009,,"spy, fbi, dubai, near east",English,Duplicity,Tyler Perry,Kat Graham,Meagan Tandy,Tyler Lepley
-"Family, Fantasy",2025,,"princess, dwarf, fairy tale, poison, musical, apple, based on movie, evil queen, based on fairy tale, live action remake, fantasy, romantic fantasy, sardonic",English,Snow White,Marc Webb,Rachel Zegler,Andrew Burnap,Gal Gadot
-"Crime, Drama, History",2025,,"new york city, crime boss, biography, mafia, true crime, assassination attempt, usa history, 1950s, 20th century",English,The Alto Knights,Barry Levinson,Robert De Niro,Debra Messing,Cosmo Jarvis
-"Science Fiction, Horror, Thriller",2025,,"terraforming, violent death, cynical, brain surgery, distant  planet, mind parasite, spacesuit, absurd, critical, alien parasite, baffled, farcical",English,Ash,Flying Lotus,Eiza González,Aaron Paul,Iko Uwais
-"Science Fiction, Drama, Thriller",2025,,"dystopia, dyslexic, ghoulish",English,The Assessment,Fleur Fortuné,Elizabeth Olsen,Alicia Vikander,Himesh Patel
-"Comedy, Drama",2025,,"melancholy, based on true story, estranged father, social media, father daughter relationship, depressing, comforting, coming of age drama",English,Bob Trevino Likes It,Tracie Laymon,Barbie Ferreira,John Leguizamo,French Stewart
-Drama,2025,,"bodybuilding, character study",English,Magazine Dreams,Elijah Bynum,Jonathan Majors,Haley Bennett,Taylour Paige
-"Horror, Thriller",2025,,"remake, father daughter relationship",English,Locked,David Yarovesky,Bill Skarsgård,Anthony Hopkins,
-Drama,2024,,,English,McVeigh,Mike Ott,Alfie Allen,Brett Gelman,Ashley Benson
-"Crime, Thriller, Science Fiction",2024,,"miami, florida, video game, gamer, home invasion, found footage, gaming, live stream, dark web, experimental cinema, ai",English,Baby Invasion,Harmony Korine,Juan Bofill,Shawn Thomas,Steven Rodriguez
-Horror,2025,,"mutation, legend, gore, based on comic, based on cartoon, slasher, sailor, haunt, body horror, blood, horror",English,Popeye the Slayer Man,Robert Michael Ryan,Jason Robert Stephens,Sarah Nicklin,Angela Relucio
+"Music, Drama, Science Fiction",2025,4.8,"post-apocalyptic future, rock opera",English,O'Dessa,Geremy Jasper,Sadie Sink,Kelvin Harrison Jr.,Murray Bartlett
+"Romance, Comedy, Crime",2009,6.1,"spy, fbi, dubai, near east",English,Duplicity,Tyler Perry,Kat Graham,Meagan Tandy,Tyler Lepley
+"Family, Fantasy",2025,1.9,"princess, dwarf, fairy tale, poison, musical, apple, based on movie, evil queen, based on fairy tale, live action remake, fantasy, romantic fantasy, sardonic",English,Snow White,Marc Webb,Rachel Zegler,Andrew Burnap,Gal Gadot
+"Crime, Drama, History",2025,5.8,"new york city, crime boss, biography, mafia, true crime, assassination attempt, usa history, 1950s, 20th century",English,The Alto Knights,Barry Levinson,Robert De Niro,Debra Messing,Cosmo Jarvis
+"Horror, Science Fiction",2025,4.6,"terraforming, space, violent death, cynical, parasite, brain surgery, infected, distant  planet, cosmic, body horror, mind parasite, spacesuit, absurd, critical, alien parasite, baffled, farcical",English,Ash,Flying Lotus,Eiza González,Aaron Paul,Iko Uwais
+"Science Fiction, Drama, Thriller",2025,6.6,"dystopia, dyslexic, ghoulish",English,The Assessment,Fleur Fortuné,Elizabeth Olsen,Alicia Vikander,Himesh Patel
+"Comedy, Drama",2025,7.6,"melancholy, based on true story, estranged father, social media, father daughter relationship, depressing, comforting, coming of age drama",English,Bob Trevino Likes It,Tracie Laymon,Barbie Ferreira,John Leguizamo,French Stewart
+Drama,2025,6.9,"bodybuilding, character study",English,Magazine Dreams,Elijah Bynum,Jonathan Majors,Haley Bennett,Taylour Paige
+"Horror, Thriller",2025,5.8,"remake, father daughter relationship",English,Locked,David Yarovesky,Bill Skarsgård,Anthony Hopkins,
+Drama,2024,4.5,,English,McVeigh,Mike Ott,Alfie Allen,Brett Gelman,Ashley Benson
+"Crime, Thriller, Science Fiction",2024,4.6,"miami, florida, video game, gamer, home invasion, found footage, gaming, live stream, dark web, experimental cinema, ai",English,Baby Invasion,Harmony Korine,Juan Bofill,Shawn Thomas,Steven Rodriguez
+Horror,2025,3.5,"mutation, legend, gore, based on comic, based on cartoon, slasher, sailor, haunt, body horror, blood, horror",English,Popeye the Slayer Man,Robert Michael Ryan,Jason Robert Stephens,Sarah Nicklin,Angela Relucio
 "Thriller, Drama",2024,,"surreal, struggle for survival, backpacking, pacific crest trail",English,To Die Alone,Austin Smagalski,Lisa Jacqueline Starrett,James Tang,Presley-Belle Foster
-"Thriller, Mystery",2025,,"michigan, woman director, secret",English,Holland,Mimi Cave,Nicole Kidman,Matthew Macfadyen,Jude Hill
-"Action, Crime, Thriller",2025,,"based on novel or book, kidnapping, vigilante, missing person, black ops, construction worker, criminal conspiracy, wry",English,A Working Man,David Ayer,Jason Statham,Jason Flemyng,Merab Ninidze
-"Horror, Mystery",2025,,"widow, car accident, single mother, family, death, death of husband, isolated farmhouse, supernatural horror, suspense, psychological horror, horror, frightened",English,The Woman in the Yard,Jaume Collet-Serra,Danielle Deadwyler,Okwui Okpokwasili,Russell Hornsby
-"Horror, Fantasy, Comedy",2025,,"dark comedy, blunt, psychotic, macabre, unicorn, nostalgic, dark fantasy, curious, mysterious, satirical, wonder, anxious, father daughter estrangement, dramatic, suspenseful, critical, witty, hilarious, whimsical, ambiguous, antagonistic, awestruck, bewildered, enchant, horrified, tragic",English,Death of a Unicorn,Alex Scharfman,Paul Rudd,Jenna Ortega,Will Poulter
+"Thriller, Mystery",2025,5.0,"michigan, woman director, secret",English,Holland,Mimi Cave,Nicole Kidman,Matthew Macfadyen,Jude Hill
+"Action, Crime, Thriller",2025,5.7,"based on novel or book, kidnapping, vigilante, missing person, black ops, construction worker, criminal conspiracy, wry",English,A Working Man,David Ayer,Jason Statham,Jason Flemyng,Merab Ninidze
+"Horror, Mystery",2025,5.1,"widow, car accident, single mother, family, death, death of husband, isolated farmhouse, supernatural horror, suspense, psychological horror, horror, frightened",English,The Woman in the Yard,Jaume Collet-Serra,Danielle Deadwyler,Okwui Okpokwasili,Russell Hornsby
+"Horror, Fantasy, Comedy",2025,5.9,"dark comedy, blunt, psychotic, macabre, unicorn, nostalgic, dark fantasy, curious, mysterious, satirical, wonder, anxious, father daughter estrangement, dramatic, suspenseful, critical, witty, hilarious, whimsical, ambiguous, antagonistic, awestruck, bewildered, enchant, horrified, tragic",English,Death of a Unicorn,Alex Scharfman,Paul Rudd,Jenna Ortega,Will Poulter
 "Family, Comedy",2025,,"mexico city, mexico, bad luck, dysfunctional family, road trip, remake, based on children's book, spring break, returning to roots, latin americans, family comedy",English,"Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip",Marvin Lemus,Eva Longoria,Jesse Garcia,Paulina Chávez
-Drama,2025,,"new york city, suicide, based on novel or book, mentor, writer, dog, death of friend",English,The Friend,Scott McGehee and David Siegel,Naomi Watts,Bill Murray,Sarah Pidgeon
-"Romance, Comedy, Drama",2025,,bucket list,English,The Life List,Adam Brooks,Sofia Carson,Sebastian de Souza,Connie Britton
-"Western, Action",2025,,вестерн,English,Day of Reckoning,Shaun Silva,Billy Zane,Zach Roerig,Cara Jade Myers
+Drama,2025,6.3,"new york city, suicide, based on novel or book, mentor, writer, dog, death of friend",English,The Friend,Scott McGehee and David Siegel,Naomi Watts,Bill Murray,Sarah Pidgeon
+"Romance, Comedy, Drama",2025,6.8,bucket list,English,The Life List,Adam Brooks,Sofia Carson,Sebastian de Souza,Connie Britton
+"Western, Action",2025,4.5,вестерн,English,Day of Reckoning,Shaun Silva,Billy Zane,Zach Roerig,Cara Jade Myers
 "Thriller, Crime, Drama",2025,,,English,Black Heat,Wes Miller,Jason Mitchell,DreamDoll,NLE Choppa
-"Thriller, Comedy, Crime",2024,,"switzerland, mountain village, dark comedy, sewing, thread, drug deal, thriller",English,Sew Torn,Freddy Macdonald,Eve Connolly,Calum Worthy,John Lynch
-"Horror, Comedy",2025,,"based on cartoon, independent film, slasher horror, fight for survival",English,Screamboat,Steven LaMorte,David Howard Thornton,Allison Pittel,Amy Schmacher
-"Family, Comedy, Adventure, Fantasy",2025,,"friendship, surrealism, exploration, portal, miner, friends, survival, zombie, based on video game, aftercreditsstinger, duringcreditsstinger, journey, live action and animation, imagination, teamwork, fantasy, absurd, cliché, building",English,A Minecraft Movie,Jared Hess,Jason Momoa,Jack Black,Danielle Brooks
-"Action, Comedy, Crime",2025,,"martial arts, skinhead, nazi, assault, diner, punk rock, surrealism, female friendship, oakland, california, criminal past, anthology, revenge, sexual harassment, burglary, policeman, rock concert, criminal gang, multiple storylines, basketball player, teenage romance, 1980s, death of wife, newborn baby, freestyle rap, movie theater",English,Freaky Tales,Anna Boden,Pedro Pascal,Ben Mendelsohn,Jay Ellis
-"Horror, Comedy, Mystery",2025,,"summer camp, woods, serial killer, camp, slasher, whodunit, summer, series of murders, campfire, camp counselor, frantic, playful",English,Hell of a Summer,Billy Bryk,Fred Hechinger,Abby Quinn,D'Pharaoh Woon-A-Tai
-"Drama, Thriller",2025,,"cheating, game show, based on true story, scandal, 1980s",English,The Luckiest Man in America,Samir Oliveros,Paul Walter Hauser,Walton Goggins,Shamier Anderson
+"Thriller, Comedy, Crime",2024,7.3,"switzerland, mountain village, dark comedy, sewing, thread, drug deal, thriller",English,Sew Torn,Freddy Macdonald,Eve Connolly,Calum Worthy,John Lynch
+"Horror, Comedy",2025,4.4,"based on cartoon, independent film, slasher horror, fight for survival",English,Screamboat,Steven LaMorte,David Howard Thornton,Allison Pittel,Amy Schmacher
+"Family, Comedy, Adventure, Fantasy",2025,5.6,"friendship, surrealism, exploration, portal, miner, friends, survival, zombie, based on video game, aftercreditsstinger, duringcreditsstinger, journey, live action and animation, imagination, teamwork, fantasy, cliché, building",English,A Minecraft Movie,Jared Hess,Jason Momoa,Jack Black,Danielle Brooks
+"Action, Comedy, Crime",2025,6.2,"martial arts, skinhead, nazi, assault, diner, punk rock, surrealism, female friendship, oakland, california, criminal past, anthology, revenge, sexual harassment, burglary, policeman, rock concert, criminal gang, multiple storylines, basketball player, teenage romance, 1980s, death of wife, newborn baby, freestyle rap, movie theater",English,Freaky Tales,Anna Boden,Pedro Pascal,Ben Mendelsohn,Jay Ellis
+"Horror, Comedy, Mystery",2025,5.4,"summer camp, woods, serial killer, camp, slasher, whodunit, summer, series of murders, campfire, camp counselor, frantic, playful",English,Hell of a Summer,Billy Bryk,Fred Hechinger,Abby Quinn,D'Pharaoh Woon-A-Tai
+"Drama, Thriller",2025,6.2,"cheating, game show, based on true story, scandal, 1980s",English,The Luckiest Man in America,Samir Oliveros,Paul Walter Hauser,Walton Goggins,Shamier Anderson
 Drama,2025,,"forgiveness, trauma, based on play or musical, healing process, school shooting, mass shooting",English,Eric Larue,Michael Shannon,Judy Greer,Paul Sparks,Alison Pill
 "Comedy, Thriller, Crime, Drama, Horror",2025,,"new york city, serial killer, dramedy",English,Psycho Therapy: The Shallow Tale of a Writer Who Decided to Write About a Serial Killer,Tolga Karaçelik,Steve Buscemi,Britt Lower,John Magaro
-"Romance, Comedy",2025,,"lgbt, gay romance, gay theme",English,A Nice Indian Boy,Roshan Sethi,Karan Soni,Jonathan Groff,Sunita Mani
+"Romance, Comedy",2025,7.4,"lgbt, gay romance, gay theme",English,A Nice Indian Boy,Roshan Sethi,Karan Soni,Jonathan Groff,Sunita Mani
 "Mystery, Thriller, Horror",2025,,"psychological thriller, independent film, low budget, psychological drama, 16mm film",English,Gazer,Ryan J. Sloan,Ariella Mastroianni,Marcia Debonis,Renee Gagner
-"Action, Mystery, Drama",2025,,"usa president, summit, terrorist attack, political thriller, unassuming, inspirational, provocative, direct, suspenseful, critical, intense, dignified, empathetic, excited, powerful",English,G20,Patricia Riggen,Viola Davis,Anthony Anderson,Marsai Martin
-"Thriller, Action",2025,,"central intelligence agency (cia), based on novel or book, escape, blackmail, revenge, agent, government assassin, government cover-up, government conspiracy, death of wife, spy thriller, computer hacker, terrorist",English,The Amateur,James Hawes,Rami Malek,Rachel Brosnahan,Caitríona Balfe
-"Family, Fantasy, Drama, Adventure, Animation",2025,,"based on novel or book, 19th century, 1st century, jesus christ, father son relationship, christian film, imagination, historical epic, biblical, cgi animation",English,The King of Kings,Seong-ho Jang,Kenneth Branagh,Uma Thurman,Mark Hamill
-"Mystery, Thriller",2025,,"photographer, date, widow, restaurant, psychological thriller, whodunit, single mother, phone, murder mystery, mystery, thriller, threatening behavior",English,Drop,Christopher Landon,Meghann Fahy,Brandon Sklenar,Violett Beane
-"War, Action",2025,,"u.s. navy seal, docudrama, iraq war, platoon, real time, 2000s, depressing",English,Warfare,Ray Mendoza,D'Pharaoh Woon-A-Tai,Will Poulter,Cosmo Jarvis
-"Western, Action",2025,,ironic,English,Gunslingers,Brian Skiba,Nicolas Cage,Stephen Dorff,Heather Graham
-"Comedy, Drama",2025,,"road trip, los angeles, california, former best friend, buddy comedy, independent film, sacramento, california",English,Sacramento,Michael Angarano,Michael Angarano,Michael Cera,Kristen Stewart
-"Horror, Fantasy, Thriller, Mystery, Action",2025,,"police officer, based on video game, demonic possession, alternate universe, occultism, supernatural horror",English,Home Sweet Home Rebirth,Alexander Kiesl,Michele Morrone,William Moseley,Urassaya Sperbund
-Horror,2009,,"remake, death of mother, evil stepmother, evil woman, white dress, unsent letter, medical kit, hanging a picture, chalkboard",English,The Uninvited,Nadia Conners,Walton Goggins,Elizabeth Reaser,Rufus Sewell
-"Animation, Drama",2010,,"stop motion, short film",English,Zero,Jean Luc Herbulot,Hus Miller,Cam McHarg,Gary Dourdan
-Drama,2021,,,English,The Big Bend,Brett Wagner,Jason Butler Harner,Virginia Kull,Erica Ash
+"Action, Mystery, Drama",2025,5.1,"usa president, summit, terrorist attack, political thriller, unassuming, inspirational, provocative, direct, suspenseful, critical, intense, dignified, empathetic, excited, powerful",English,G20,Patricia Riggen,Viola Davis,Anthony Anderson,Marsai Martin
+"Thriller, Action",2025,6.7,"central intelligence agency (cia), based on novel or book, escape, blackmail, revenge, agent, government assassin, government cover-up, government conspiracy, death of wife, spy thriller, computer hacker, terrorist",English,The Amateur,James Hawes,Rami Malek,Rachel Brosnahan,Caitríona Balfe
+"Family, Fantasy, Drama, Adventure, Animation",2025,6.9,"based on novel or book, 19th century, 1st century, jesus christ, father son relationship, christian film, imagination, historical epic, biblical, cgi animation",English,The King of Kings,Seong-ho Jang,Kenneth Branagh,Uma Thurman,Mark Hamill
+"Mystery, Thriller",2025,6.1,"photographer, date, widow, restaurant, psychological thriller, whodunit, single mother, phone, murder mystery, mystery, thriller, threatening behavior",English,Drop,Christopher Landon,Meghann Fahy,Brandon Sklenar,Violett Beane
+"War, Action",2025,7.2,"u.s. navy seal, docudrama, iraq war, platoon, real time, 2000s, depressing",English,Warfare,Ray Mendoza,D'Pharaoh Woon-A-Tai,Will Poulter,Cosmo Jarvis
+"Western, Action",2025,3.6,ironic,English,Gunslingers,Brian Skiba,Nicolas Cage,Stephen Dorff,Heather Graham
+"Comedy, Drama",2025,5.9,"road trip, los angeles, california, former best friend, buddy comedy, independent film, sacramento, california",English,Sacramento,Michael Angarano,Michael Angarano,Michael Cera,Kristen Stewart
+"Horror, Fantasy, Thriller, Mystery, Action",2025,4.6,"police officer, based on video game, demonic possession, alternate universe, occultism, supernatural horror",English,Home Sweet Home Rebirth,Alexander Kiesl,Michele Morrone,William Moseley,Urassaya Sperbund
+"Comedy, Drama",2025,5.4,"bedtime story, woman director, talent agent, hollywood hills, elderly woman, independent film, party, struggling actress",English,The Uninvited,Nadia Conners,Walton Goggins,Elizabeth Reaser,Rufus Sewell
+"Animation, Drama",2010,7.3,"stop motion, short film",English,Zero,Jean Luc Herbulot,Hus Miller,Cam McHarg,Gary Dourdan
+Drama,2021,7.5,,English,The Big Bend,Brett Wagner,Jason Butler Harner,Virginia Kull,Erica Ash
 ,,,,English,Dreaming of You,Jack McCafferty,Jack McCafferty,Lauren LaVera,Ian Ross
-"Horror, Action, Thriller",2025,,"chicago, illinois, capitalism, ku klux klan, musician, immortality, vampire, surrealism, sin, alcoholism, vampire hunter (slayer), church, twins, estranged wife, mourning, dual role, cousin relationship, death of daughter, blues music, aftercreditsstinger, speculative, klansmen, detached, 1990s, 1930s, salvation, assimilation, chinese immigrant, brother brother relationship, southern gothic, afro-descendants, cousins, supernatural horror, train station, cautionary, juke joint, mississippi, awestruck, defiant, hopeful",English,Sinners,Ryan Coogler,Michael B. Jordan,Hailee Steinfeld,Miles Caton
-"Family, Comedy, Adventure, Animation",2025,,"new york city, computer animation, children's adventure, sneakers, absurd, cliché, disdainful, distressing, cgi animation, anthropomorphic shoe",English,Sneaks,Rob Edwards,Anthony Mackie,Martin Lawrence,Swae Lee
-"Family, Fantasy, Adventure",2025,,"bite, dysfunctional family, children's adventure, dreary, interspecies friendship",English,The Legend of Ochi,Isaiah Saxon,Helena Zengel,Finn Wolfhard,Emily Watson
-"Comedy, Romance, Drama",2025,,"new york city, romcom, marriage of convenience, remake, male homosexuality, gay marriage, green card, lgbt, gay theme, lesbian, ivf treatment, korean culture",English,The Wedding Banquet,Andrew Ahn,Bowen Yang,Lily Gladstone,Kelly Marie Tran
-"Action, Fantasy, Horror",2025,,,English,The Death of Snow White,Jason Brooks,Sanae Loutsis,Chelsea Edmundson,Tristan Nokes
+"Horror, Action, Thriller",2025,7.8,"chicago, illinois, capitalism, ku klux klan, musician, immortality, vampire, surrealism, sin, alcoholism, vampire hunter (slayer), church, twins, estranged wife, mourning, dual role, cousin relationship, death of daughter, blues music, aftercreditsstinger, speculative, klansmen, detached, 1990s, 1930s, salvation, assimilation, chinese immigrant, brother brother relationship, southern gothic, afro-descendants, cousins, supernatural horror, train station, cautionary, juke joint, mississippi, awestruck",English,Sinners,Ryan Coogler,Michael B. Jordan,Hailee Steinfeld,Miles Caton
+"Family, Comedy, Adventure, Animation",2025,4.5,"new york city, computer animation, children's adventure, sneakers, absurd, cliché, disdainful, distressing, cgi animation, anthropomorphic shoe",English,Sneaks,Rob Edwards,Anthony Mackie,Martin Lawrence,Swae Lee
+"Family, Fantasy, Adventure",2025,5.9,"bite, dysfunctional family, children's adventure, dreary, interspecies friendship",English,The Legend of Ochi,Isaiah Saxon,Helena Zengel,Finn Wolfhard,Emily Watson
+"Comedy, Romance, Drama",2025,6.7,"new york city, romcom, marriage of convenience, remake, male homosexuality, gay marriage, green card, lgbt, gay theme, lesbian, ivf treatment, korean culture",English,The Wedding Banquet,Andrew Ahn,Bowen Yang,Lily Gladstone,Kelly Marie Tran
+"Action, Fantasy, Horror",2025,9.0,,English,The Death of Snow White,Jason Brooks,Sanae Loutsis,Chelsea Edmundson,Tristan Nokes
 ,2007,,,Japanese,The Accountant 2,Gavin O'Connor,Ben Affleck,Jon Bernthal,Cynthia Addai-Robinson
-"Horror, Drama, Mystery",2025,,"witch, haunting, abandoned house, survival, memory loss, time loop, bear trap, slasher, exploding body, death, based on video game, creature feature, knife murder, wendigo, murder mystery, butterfly effect, mine disaster, supernatural horror, body horror, psychological horror, horror, missing people, teen scream",English,Until Dawn,David F. Sandberg,Ella Rubin,Michael Cimino,Odessa A'zion
-"Action, Crime, Thriller",2025,,"winter, detective, rescue mission, shootout, dirty cop, criminal underworld, crooked politician, estranged son, christmas, drug deal, night club, brutal violence",English,Havoc,Gareth Evans,Tom Hardy,Jessie Mei Li,Justin Cornwell
-"Drama, Romance",2025,,"casino, based on novel or book, gambling, lesbian relationship, 1950s, gay romance, gay relationship, same sex relationship, wistful, queer cinema, san diego, lgbt history, queer history, lesbian couple, gay couple, romantic, ambiguous, melodramatic, horse riding, queer love, queer romance, gay men, gay love story, gay love, lgbtq, queer sexuality, lgbtq+",English,On Swift Horses,Daniel Minahan,Daisy Edgar-Jones,Jacob Elordi,Will Poulter
-"Romance, Comedy, Drama",2024,,"young adult, admiring, adoring",English,Winter Spring Summer or Fall,Tiffany Paulsen,Jenna Ortega,Percy Hynes White,Marisol Nichols
+"Horror, Drama, Mystery",2025,5.8,"witch, haunting, abandoned house, survival, memory loss, time loop, bear trap, slasher, exploding body, death, based on video game, creature feature, knife murder, wendigo, murder mystery, butterfly effect, mine disaster, supernatural horror, body horror, psychological horror, horror, missing people, teen scream",English,Until Dawn,David F. Sandberg,Ella Rubin,Michael Cimino,Odessa A'zion
+"Action, Crime, Thriller",2025,5.7,"winter, detective, rescue mission, shootout, dirty cop, criminal underworld, crooked politician, estranged son, christmas, drug deal, night club, brutal violence",English,Havoc,Gareth Evans,Tom Hardy,Jessie Mei Li,Justin Cornwell
+"Drama, Romance",2025,6.2,"casino, based on novel or book, gambling, lesbian relationship, 1950s, gay romance, gay relationship, same sex relationship, wistful, queer cinema, san diego, lgbt history, queer history, lesbian couple, gay couple, romantic, ambiguous, melodramatic, horse riding, queer love, queer romance, gay men, gay love story, gay love, lgbtq, queer sexuality, lgbtq+",English,On Swift Horses,Daniel Minahan,Daisy Edgar-Jones,Jacob Elordi,Will Poulter
+"Romance, Comedy, Drama",2024,6.7,"young adult, admiring, adoring",English,Winter Spring Summer or Fall,Tiffany Paulsen,Jenna Ortega,Percy Hynes White,Marisol Nichols
 Horror,2024,,"disturbed, calm",Swedish,Neighborhood Watch,Duncan Skiles,Jeffrey Dean Morgan,Jack Quaid,Malin Akerman
-Comedy,2025,,"pregnancy, language barrier, satire, woman director, documentary crew",English,Magic Farm,Amalia Ulman,Chloë Sevigny,Alex Wolff,Amalia Ulman
-"Comedy, Action, Crime",2025,,"chaotic, comedy, crime caper",English,California King,Eli Stern,Jimmy Tatro,Travis Bennett,Victoria Justice
-"Horror, Mystery",2025,,"found footage, urban explorers",English,Project MKHEXE,Gerald Robert Waddell,Ignacyo Matynia,Jordan Knapp,Will Jandro
-"Comedy, Thriller, Crime",2025,,"lethal injection, sequel, murder, mafia, wedding, maid of honor, mysterious woman, evil twin, police arrest, female writer, capri, italy, tense, intense, bold, exhilarated, vibrant, shot to death",English,Another Simple Favor,Paul Feig,Anna Kendrick,Blake Lively,Andrew Rannells
-"Action, Science Fiction, Adventure",2025,,"new york city, superhero, villain, based on comic, mental health, aftercreditsstinger, duringcreditsstinger, marvel cinematic universe (mcu), congressman, thoughtful, father daughter relationship, impeachment, survivor's guilt, introspective, antihero, ragtag, band of misfits, cheerful, joyful",English,Thunderbolts*,Jake Schreier,Florence Pugh,Sebastian Stan,Wyatt Russell
+Comedy,2025,5.8,"pregnancy, language barrier, satire, woman director, documentary crew",English,Magic Farm,Amalia Ulman,Chloë Sevigny,Alex Wolff,Amalia Ulman
+"Comedy, Action, Crime",2025,7.2,"chaotic, comedy, crime caper",English,California King,Eli Stern,Jimmy Tatro,Travis Bennett,Victoria Justice
+"Horror, Mystery",2025,5.1,"found footage, urban explorers",English,Project MKHEXE,Gerald Robert Waddell,Ignacyo Matynia,Jordan Knapp,Will Jandro
+"Comedy, Thriller, Crime",2025,5.3,"lethal injection, sequel, murder, mafia, wedding, maid of honor, mysterious woman, evil twin, police arrest, female writer, capri, italy, tense, intense, bold, exhilarated, vibrant, shot to death",English,Another Simple Favor,Paul Feig,Anna Kendrick,Blake Lively,Andrew Rannells
+"Action, Science Fiction, Adventure",2025,7.5,"new york city, superhero, villain, based on comic, mental health, aftercreditsstinger, duringcreditsstinger, marvel cinematic universe (mcu), congressman, hopeless, father daughter relationship, impeachment, survivor's guilt, antihero, ragtag, band of misfits",English,Thunderbolts*,Jake Schreier,Florence Pugh,Sebastian Stan,Wyatt Russell
 "Comedy, Music, Documentary",2025,,"museum, indie rock, music documentary, jukebox musical, experimental documentary",English,Pavements,Alex Ross Perry,Pavement,Zoe Lister-Jones,Michael Esper
-"Drama, Thriller",2025,,,English,Words of War,James Strong,Maxine Peake,Jason Isaacs,Ciarán Hinds
+"Drama, Thriller",2025,5.7,,English,Words of War,James Strong,Maxine Peake,Jason Isaacs,Ciarán Hinds
 ,1987,,,English,I'm Beginning to See the Light,Konstantin Khudyakov,Jack Huston,Abby Cornish,Brandon T. Jackson
-Horror,2025,,"entity, family curse, occultism",English,Rosario,Felipe Vargas,David Dastmalchian,José Zúñiga,Diana Lein
-Western,2025,,"bounty hunter, death sentence, accidental death, grandson, western, lone outlaw",English,Rust,Joel Souza,Alec Baldwin,Josh Hopkins,Patrick Scott McDermott
+Horror,2025,4.3,"entity, family curse, occultism",English,Rosario,Felipe Vargas,David Dastmalchian,José Zúñiga,Diana Lein
+Western,2025,5.4,"bounty hunter, death sentence, accidental death, grandson, western, lone outlaw",English,Rust,Joel Souza,Alec Baldwin,Josh Hopkins,Patrick Scott McDermott
 "Comedy, Thriller",2024,,"dark comedy, independent film, comedy",English,Vulcanizadora,Joel Potrykus,Joel Potrykus,Joshua Burge,Bill Vincent
-Drama,1990,,greek mythology,English,Electra,Hala Matar,Maria Bakalova,Abigail Cowen,Jack Farthing
+Drama,1990,3.1,greek mythology,English,Electra,Hala Matar,Maria Bakalova,Abigail Cowen,Jack Farthing
 "Western, Drama",2025,,neo-western,English,Broke,Carlyle Eubank,Wyatt Russell,Dennis Quaid,Auden Thornton
-"Action, Drama, Thriller",2025,,"espionage, spy, son, special forces, hunter are hunted, action thriller, bounty, husband and wife",English,Shadow Force,Joe Carnahan,Kerry Washington,Omar Sy,Mark Strong
-"Action, Comedy, Thriller",2025,,"mercenary, dark comedy, frantic, fight or flight",English,Fight or Flight,James Madigan,Josh Hartnett,Charithra Chandran,Julian Kostov
-"Comedy, Drama",2010,,"friendship, german democratic republic, based on true story",German,Friendship,Andrew DeYoung,Tim Robinson,Kate Mara,Jack Dylan Grazer
-Comedy,2025,,"restaurant, revitalization, based on true story, italian restaurant, second chance, brooklyn, new york city, death of mother, staten island, new york city, italian cuisine",English,Nonnas,Stephen Chbosky,Vince Vaughn,Lorraine Bracco,Talia Shire
-"Horror, Mystery, Thriller",2025,,"small town, based on novel or book, beheading, rifle, slasher, weight lifting, severed hand, killer clown, evil clown, cornfield, independent film, gay kiss, teenager, hilarious, disapproving",English,Clown in a Cornfield,Eli Craig,Katie Douglas,Carson MacCormac,Aaron Abrams
-"Romance, Drama",2025,,"musical, fake suicide, based on play or musical, sword fight, potion, star crossed lovers, verona italy, 14th century, romeo & juliet, plot twist, romantic drama, feuding families, 1300s, william shakespeare, teen romance",English,Juliet & Romeo,Timothy Scott Bogart,Clara Rugaard,Jamie Ward,Jason Isaacs
-Thriller,2024,,,English,Unit 234,Andy Tennant,Don Johnson,Isabelle Fuhrman,Jack Huston
-"Comedy, Drama",2025,,"confidence, stripper",English,Summer of 69,Jillian Bell,Chloe Fineman,Sam Morelos,Matt Cornett
+"Action, Drama, Thriller",2025,4.8,"espionage, spy, son, special forces, hunter are hunted, action thriller, bounty, husband and wife",English,Shadow Force,Joe Carnahan,Kerry Washington,Omar Sy,Mark Strong
+"Action, Comedy, Thriller",2025,6.4,"mercenary, dark comedy, frantic, fight or flight",English,Fight or Flight,James Madigan,Josh Hartnett,Charithra Chandran,Julian Kostov
+"Comedy, Drama",2010,6.5,"friendship, german democratic republic, based on true story",German,Friendship,Andrew DeYoung,Tim Robinson,Kate Mara,Jack Dylan Grazer
+Comedy,2025,6.9,"restaurant, revitalization, based on true story, italian restaurant, second chance, brooklyn, new york city, death of mother, staten island, new york city, italian cuisine",English,Nonnas,Stephen Chbosky,Vince Vaughn,Lorraine Bracco,Talia Shire
+"Horror, Mystery, Thriller",2025,5.7,"small town, based on novel or book, beheading, rifle, slasher, weight lifting, severed hand, killer clown, evil clown, cornfield, independent film, gay kiss, teenager, hilarious, disapproving",English,Clown in a Cornfield,Eli Craig,Katie Douglas,Carson MacCormac,Aaron Abrams
+"Romance, Drama",2025,3.6,"musical, fake suicide, based on play or musical, sword fight, potion, star crossed lovers, verona italy, 14th century, romeo & juliet, plot twist, romantic drama, feuding families, 1300s, william shakespeare, teen romance",English,Juliet & Romeo,Timothy Scott Bogart,Clara Rugaard,Jamie Ward,Jason Isaacs
+Thriller,2024,5.2,,English,Unit 234,Andy Tennant,Don Johnson,Isabelle Fuhrman,Jack Huston
+"Comedy, Drama",2025,5.8,"confidence, stripper",English,Summer of 69,Jillian Bell,Chloe Fineman,Sam Morelos,Matt Cornett
 "Action, Science Fiction",2025,,"martial arts, боевые искусства, турнир, чемпион, постапокалиптика, турнир боевых искусств, глобальный конфликт",English,Absolute Dominion,Lexi Alexander,Désiré Mia,Fabiano Viett,Alex Winter
 ,,,,kn,Lilly,Rachel Feldman,Patricia Clarkson,John Benjamin Hickey,Thomas Sadoski
-"Horror, Mystery",2025,,"restaurant, gore, sequel, premonition, fate, family, death, blunt, near-death experience, aggressive, 1960s, cheating death, supernatural horror, horror, teen scream",English,Final Destination Bloodlines,Zach Lipovsky,Kaitlyn Santa Juana,Teo Briones,Richard Harmon
-"Music, Thriller",2025,,"concert, musician, drug addiction, insomnia, arson, psychological thriller, los angeles, california, break-up, amusement park, vanity project, companion piece, psychological drama, tour",English,Hurry Up Tomorrow,Trey Edward Shults,Abel Tesfaye,Jenna Ortega,Barry Keoghan
+"Horror, Mystery",2025,6.8,"restaurant, gore, sequel, premonition, fate, family, death, blunt, near-death experience, aggressive, 1960s, cheating death, supernatural horror, lighthearted, horror, tense, teen scream",English,Final Destination Bloodlines,Zach Lipovsky,Kaitlyn Santa Juana,Teo Briones,Richard Harmon
+"Music, Thriller",2025,4.7,"concert, musician, drug addiction, insomnia, arson, psychological thriller, los angeles, california, break-up, amusement park, vanity project, companion piece, psychological drama, tour",English,Hurry Up Tomorrow,Trey Edward Shults,Abel Tesfaye,Jenna Ortega,Barry Keoghan
 "Horror, Mystery, Action",2025,,"sequel, biting, aggressive, killer dog, absurd, dogs, the breed",English,A Breed Apart,Griff Furst,Grace Caroline Currey,Virginia Gardner,Riele Downs
-"Action, Crime, Thriller",1994,,,cn,To Live and Die and Live,Qasim Basir,Amin Joseph,Skye P. Marshall,Omari Hardwick
-"Action, Western",1915,,,English,The Ruse,Stevan Mena,Veronica Cartwright,Madelyn Dundon,Michael Bakkensen
-"Family, Science Fiction, Comedy, Adventure",2025,,"hawaii, bullying, dysfunctional family, alien, loss of job, shape shifting alien, family, evil alien, orphan siblings, extraterrestrial animal, live action remake, alien spaceship, animal human friendship, advanced technology, hilarious",English,Lilo & Stitch,Dean Fleischer Camp,Sydney Elizebeth Agudong,Billy Magnussen,Hannah Waddingham
-"Action, Adventure, Thriller",2025,,"artificial intelligence (a.i.), diving, submarine, espionage, spy, nuclear missile, secret agent, stunt, sequel, terrorist plot, misinformation, based on tv series, intense, amused, exhilarated",English,Mission: Impossible – The Final Reckoning,Christopher McQuarrie,Tom Cruise,Hayley Atwell,Ving Rhames
-"Adventure, Fantasy, Mystery",2025,,"egypt, treasure, fountain of youth, secret organization, heist, art thief, sibling, healing power, estranged family member, pharaoh, ancient, history",English,Fountain of Youth,Guy Ritchie,John Krasinski,Natalie Portman,Eiza González
-"Horror, Mystery",2025,,"based on novel or book, beheading, prank, raincoat, axe murder, prom queen, high school rivalry, 1980s, it girl, teen slasher, high school prom",English,Fear Street: Prom Queen,Matt Palmer,India Fowler,Suzanna Son,Fina Strazza
+"Action, Crime, Thriller",1994,6.5,,cn,To Live and Die and Live,Qasim Basir,Amin Joseph,Skye P. Marshall,Omari Hardwick
+"Action, Western",1915,6.2,,English,The Ruse,Stevan Mena,Veronica Cartwright,Madelyn Dundon,Michael Bakkensen
+"Family, Science Fiction, Comedy, Adventure",2025,6.9,"hawaii, bullying, dysfunctional family, alien, loss of job, shape shifting alien, family, evil alien, orphan siblings, extraterrestrial animal, live action remake, alien spaceship, animal human friendship, advanced technology, hilarious",English,Lilo & Stitch,Dean Fleischer Camp,Sydney Elizebeth Agudong,Billy Magnussen,Hannah Waddingham
+"Action, Adventure, Thriller",2025,7.4,"mask, artificial intelligence (a.i.), diving, submarine, espionage, spy, nuclear missile, fake identity, secret agent, stunt, sequel, infiltration, terrorist plot, fictional government agency, misinformation, government agency, based on tv series, secret government agency",English,Mission: Impossible – The Final Reckoning,Christopher McQuarrie,Tom Cruise,Hayley Atwell,Ving Rhames
+"Adventure, Fantasy, Mystery",2025,5.7,"egypt, treasure, fountain of youth, secret organization, heist, art thief, sibling, healing power, estranged family member, pharaoh, ancient, history",English,Fountain of Youth,Guy Ritchie,John Krasinski,Natalie Portman,Eiza González
+"Horror, Mystery",2025,5.1,"based on novel or book, beheading, prank, raincoat, axe murder, prom queen, high school rivalry, 1980s, it girl, teen slasher, high school prom",English,Fear Street: Prom Queen,Matt Palmer,India Fowler,Suzanna Son,Fina Strazza
 Drama,2025,,"bullfighting, matador (bullfighter), bull riding, contests and competitions, estranged friend, christian faith, independent film, faith and religion",English,The Last Rodeo,Jon Avnet,Neal McDonough,Mykelti Williamson,Christopher McDonald
-Comedy,2025,,,English,Bad Shabbos,Daniel Robbins,Kyra Sedgwick,Method Man,Jon Bass
-"Drama, Horror",2025,,,English,The Surrender,Julia Max,Colby Minifie,Kate Burton,Neil Sandilands
-"Action, Adventure, Drama",2025,,"new york city, martial arts, kung fu, mentor, ex-boyfriend, karate, beijing, china, martial arts tournament, martial arts training, living abroad, overprotective mother",English,Karate Kid: Legends,Jonathan Entwistle,Jackie Chan,Ben Wang,Joshua Jackson
-"Adventure, Comedy",2025,,"assassin, nun, espionage, family, plane crash, direct, whimsical, apathetic",English,The Phoenician Scheme,Wes Anderson,Benicio del Toro,Mia Threapleton,Michael Cera
+Comedy,2025,8.7,,English,Bad Shabbos,Daniel Robbins,Kyra Sedgwick,Method Man,Jon Bass
+"Drama, Horror",2025,7.5,,English,The Surrender,Julia Max,Colby Minifie,Kate Burton,Neil Sandilands
+"Action, Adventure, Drama",2025,6.6,"new york city, martial arts, kung fu, mentor, ex-boyfriend, karate, beijing, china, martial arts tournament, martial arts training, living abroad, overprotective mother, sympathetic",English,Karate Kid: Legends,Jonathan Entwistle,Jackie Chan,Ben Wang,Joshua Jackson
+"Adventure, Comedy",2025,6.9,"assassin, nun, espionage, family, plane crash, direct, whimsical, apathetic",English,The Phoenician Scheme,Wes Anderson,Benicio del Toro,Mia Threapleton,Michael Cera
 ,,,,,Tim Travers and the Time Traveler's Paradox,Stimson Snead,Samuel Dunning,Danny Trejo,Joel McHale
-"Drama, Comedy",2025,,"artificial intelligence (a.i.), snow, billionaire, group of friends, end of world, financial crisis, fake news, absurd, critical, ai",English,Mountainhead,Jesse Armstrong,Steve Carell,Jason Schwartzman,Cory Michael Smith
-"Action, Thriller, Crime",2025,,"assassin, grenade, training, female protagonist, female assassin, spin off, flamethrower, burning, hunted, burning building, ballerina, gun fight, vengeance, knocked unconscious, sisters, brutal violence, tattoos, john wick",English,Ballerina,Len Wiseman,Ana de Armas,Anjelica Huston,Gabriel Byrne
-"Drama, Fantasy",2025,,"cancer, death, based on short story, reverse chronology",English,The Life of Chuck,Mike Flanagan,Tom Hiddleston,Chiwetel Ejiofor,Karen Gillan
-"Animation, Action, Science Fiction, Thriller",2025,,"florida, japan, predator, world war ii, harpoon, pilot, cryogenics, vikings (norsemen), death of father, anthology, ninja, katana sword, stick fight, samurai sword, torso cut in half, broken down car, beheaded, shipyard, fight to death, alien attack, feudal japan, ninja warrior, underwater fight, female warrior, alien technology, forced to kill, airplane flight, mother son relationship, cloaking device, excited",English,Predator: Killer of Killers,Dan Trachtenberg,Lindsay LaVanchy,Louis Ozawa Changchien,Rick Gonzalez
+"Comedy, Drama",2025,5.4,"artificial intelligence (a.i.), snow, billionaire, group of friends, end of world, financial crisis, fake news, absurd, critical, ai",English,Mountainhead,Jesse Armstrong,Steve Carell,Jason Schwartzman,Cory Michael Smith
+"Action, Thriller, Crime",2025,7.2,"assassin, tattoo, grenade, training, female protagonist, female assassin, spin off, flamethrower, burning, hunted, burning building, ballerina, gun fight, vengeance, knocked unconscious, sisters, audacious, sympathetic, brutal violence, john wick",English,Ballerina,Len Wiseman,Ana de Armas,Anjelica Huston,Gabriel Byrne
+"Drama, Fantasy",2025,7.6,"cancer, death, based on short story, reverse chronology",English,The Life of Chuck,Mike Flanagan,Tom Hiddleston,Chiwetel Ejiofor,Karen Gillan
+"Animation, Action, Science Fiction, Thriller",2025,7.7,"florida, japan, predator, world war ii, harpoon, pilot, cryogenics, vikings (norsemen), death of father, anthology, ninja, katana sword, stick fight, samurai sword, torso cut in half, broken down car, beheaded, shipyard, fight to death, alien attack, feudal japan, ninja warrior, underwater fight, female warrior, alien technology, forced to kill, airplane flight, mother son relationship, cloaking device, excited",English,Predator: Killer of Killers,Dan Trachtenberg,Lindsay LaVanchy,Louis Ozawa Changchien,Rick Gonzalez
 "Thriller, Drama",2025,,"farm, lake, drug addiction, ex husband, riding instructor, problem child, accidental death, drugs, criminal, disposing of a dead body, burning building, money problems, mother daughter relationship, drug withdrawal, same sex marriage, loss of wife, dramatic",English,Echo Valley,Michael Pearce,Julianne Moore,Sydney Sweeney,Domhnall Gleeson
-Horror,2025,,"exorcism, based on true story, demon, demonic possession, possesion, somber, priests, hallucinations, gloomy",English,The Ritual,David Midell,Al Pacino,Dan Stevens,Ashley Greene
+Horror,2025,4.7,"exorcism, based on true story, demon, demonic possession, possesion, somber, priests, hallucinations, gloomy",English,The Ritual,David Midell,Al Pacino,Dan Stevens,Ashley Greene
 "Thriller, Drama, Crime",2025,,"bank manager, arrest, loss of job, sick child, angry, aggressive, hopeless, traffic ticket, intimidation by police, mother daughter relationship, loss of home, anxious, hostages, provocative, absurd, audacious, callous, earnest, frustrated, fbi operation, shot to death, broke, life threatening, straw",English,Straw,Tyler Perry,Taraji P. Henson,Sherri Shepherd,Teyana Taylor
 "Horror, Comedy",2025,,"lgbt, gay theme",English,I Don't Understand You,David Joseph Craig,Nick Kroll,Andrew Rannells,Morgan Spector
-"Horror, Thriller",2025,,"shark attack, animal attack, serial killer, creature, shark, held captive, survival horror, killer shark, ritual sacrifice, animal horror, anxious, female surfer, psychological horror, suspenseful, horror",English,Dangerous Animals,Sean Byrne,Hassie Harrison,Josh Heuston,Rob Carlton
-"Fantasy, Family, Action",2025,,"flying, vikings (norsemen), remake, dragon, battle, warrior, live action remake, based on young adult novel, playful, fantasy, awestruck, bold, exhilarated, joyful",English,How to Train Your Dragon,Dean DeBlois,Mason Thames,Nico Parker,Gabriel Howell
+"Horror, Thriller",2025,6.8,"shark attack, animal attack, serial killer, creature, shark, held captive, survival horror, killer shark, ritual sacrifice, animal horror, anxious, female surfer, psychological horror, suspenseful, horror",English,Dangerous Animals,Sean Byrne,Hassie Harrison,Josh Heuston,Rob Carlton
+"Fantasy, Family, Action",2025,8.1,"flying, vikings (norsemen), remake, dragon, battle, warrior, live action remake, based on young adult novel, lighthearted, casual, fantasy",English,How to Train Your Dragon,Dean DeBlois,Mason Thames,Nico Parker,Gabriel Howell
 "Romance, Drama",2025,,"new york city, love triangle, affectation, wedding, class differences, ex-boyfriend ex-girlfriend relationship, woman director, sexual assault, matchmaker, adoring",English,Materialists,Celine Song,Dakota Johnson,Chris Evans,Zoë Winters
 "Action, Thriller",2025,,"affectation, ridiculous",English,Diablo,Ernesto Díaz Espinoza,Scott Adkins,Marko Zaror,Alana De La Rossa
-"Western, Adventure, Crime",2025,,"montana, false accusations, 19th century, imminent execution, 1870s, independent film",English,The Unholy Trinity,Richard Gray,Pierce Brosnan,Samuel L. Jackson,Brandon Lessard
-"Thriller, Drama, Mystery",2024,,"women's rights, iranian regime, political mystery, sports drama, suspense thriller, sincere",English,Tatami,Guy Nattiv,Arienne Mandi,Zar Amir Ebrahimi,Jaime Ray Newman
-"Horror, Thriller, Science Fiction",2025,,"england, post-apocalyptic future, sequel, survival, zombie, zombie apocalypse, violence",English,28 Years Later,Danny Boyle,Jodie Comer,Aaron Taylor-Johnson,Alfie Williams
-"Family, Comedy, Adventure, Animation, Science Fiction",2025,,"villain, alien, coming of age, computer animation, eye patch, social outcast, aftercreditsstinger, beforecreditsstinger, space adventure, sattelite, pre-teen, amateur radio, mother son relationship, good versus evil, 3d animation, interspecies friendship, clones, cheerful, pixar, animated comedy, cgi animation",English,Elio,Madeline Sharafian,Yonas Kibreab,Zoe Saldaña,Remy Edgerly
-"Animation, Fantasy, Action, Comedy, Music",2025,,"double life, supernatural, musical, female protagonist, duringcreditsstinger, demon hunter, girl group, boy band, fandom, k-pop, 3d animation, save the world, k-pop group, trio",English,KPop Demon Hunters,Maggie Kang,Arden Cho,Ahn Hyo-seop,May Hong
+"Western, Adventure, Crime",2025,7.3,"montana, false accusations, 19th century, imminent execution, 1870s, independent film",English,The Unholy Trinity,Richard Gray,Pierce Brosnan,Samuel L. Jackson,Brandon Lessard
+"Thriller, Drama, Mystery",2024,7.4,"women's rights, iranian regime, political mystery, sports drama, suspense thriller, sincere",English,Tatami,Guy Nattiv,Arienne Mandi,Zar Amir Ebrahimi,Jaime Ray Newman
+"Horror, Thriller, Science Fiction",2025,7.1,"england, post-apocalyptic future, sequel, survival, zombie, mourning, zombie apocalypse, violence, cruel",English,28 Years Later,Danny Boyle,Jodie Comer,Aaron Taylor-Johnson,Alfie Williams
+"Animation, Family, Comedy, Adventure, Science Fiction",2025,7.0,"villain, alien, coming of age, computer animation, eye patch, social outcast, aftercreditsstinger, beforecreditsstinger, space adventure, sattelite, pre-teen, amateur radio, mother son relationship, good versus evil, 3d animation, interspecies friendship, clones, cheerful, pixar, animated comedy, cgi animation",English,Elio,Madeline Sharafian,Yonas Kibreab,Zoe Saldaña,Remy Edgerly
+"Animation, Fantasy, Action, Comedy, Music, Family",2025,7.9,"double life, supernatural, musical, female protagonist, duringcreditsstinger, demon hunter, girl group, boy band, fandom, k-pop, 3d animation, save the world, k-pop group, trio",English,KPop Demon Hunters,Maggie Kang,Arden Cho,Ahn Hyo-seop,May Hong
 "Comedy, Drama",2025,,,English,Everything's Going to Be Great,Jon S. Baird,Benjamin Evan Ainsworth,Bryan Cranston,Allison Janney
 "Action, Comedy",2025,,"mercenary, secret agent, female friendship, imminent wedding, action comedy, destination wedding",English,Bride Hard,Simon West,Rebel Wilson,Anna Camp,Anna Chlumsky
-"Drama, Thriller, Crime",2019,,"galicia, spain, mafia",Spanish,Eye for an Eye,Colin Tilley,Whitney Peak,S. Epatha Merkerson,Golda Rosheuvel
-Drama,2025,,,English,Familiar Touch,Sarah Friedland,Kathleen Chalfant,Carolyn Michelle Smith,Andy McQueen
-"Horror, Thriller, Mystery",2015,,"friendship, isolation, kidnapping, baseball, wheelchair, doctor, surgery, sick child, marital problem, dark secret, abuse, kids",English,The Harvest,Caylee So,Doua Moua,Perry Yung,Dawn Ying Yuen
+"Drama, Thriller, Crime",2019,6.6,"galicia, spain, mafia",Spanish,Eye for an Eye,Colin Tilley,Whitney Peak,S. Epatha Merkerson,Golda Rosheuvel
+Drama,2025,6.3,,English,Familiar Touch,Sarah Friedland,Kathleen Chalfant,Carolyn Michelle Smith,Andy McQueen
+"Horror, Thriller, Mystery",2015,6.1,"friendship, isolation, kidnapping, baseball, wheelchair, doctor, surgery, sick child, marital problem, dark secret, abuse, kids",English,The Harvest,Caylee So,Doua Moua,Perry Yung,Dawn Ying Yuen
 "Thriller, Comedy",2025,,,English,Don't Tell Larry,Greg Porper,Ed Begley Jr.,Dot-Marie Jones,Patty Guggenheim
-"Action, Drama",2025,,"beforecreditsstinger, rookie, formula one (f1), motorsport, car racing, matter of fact",English,F1,Joseph Kosinski,Brad Pitt,Damson Idris,Kerry Condon
-"Action, Science Fiction, Thriller",2025,,"android, artificial intelligence (a.i.), fight, killer robot, beheading, electromagnetic pulse, sequel, evil doll, wingsuit, robot, doll, spear throwing, synthetic human, robot fighting, exoskeleton, creepy doll, smart home, possessed doll, action, fbi operation, neural chip, android horror",English,M3GAN 2.0,Gerard Johnstone,Allison Williams,Violet McGraw,Brian Jordan Alvarez
-"Drama, Comedy",2025,,"rape, post-traumatic stress disorder (ptsd), cat, professor, massachusetts, melancholy, female friendship, jury duty, female protagonist, pregnant woman, healing process, woman director, sexual assault, meditative, female teacher, cautionary, student mentor relationship, independent film, grad school, debut feature",English,"Sorry, Baby",Eva Victor,Eva Victor,Naomi Ackie,Lucas Hedges
+"Action, Drama",2025,7.9,"melancholy, beforecreditsstinger, rookie, formula one (f1), motorsport, car racing, excited",English,F1,Joseph Kosinski,Brad Pitt,Damson Idris,Kerry Condon
+"Action, Science Fiction, Thriller",2025,5.3,"android, artificial intelligence (a.i.), fight, killer robot, beheading, electromagnetic pulse, sequel, evil doll, wingsuit, robot, doll, spear throwing, synthetic human, robot fighting, exoskeleton, creepy doll, smart home, possessed doll, action, fbi operation, neural chip, android horror",English,M3GAN 2.0,Gerard Johnstone,Allison Williams,Violet McGraw,Brian Jordan Alvarez
+"Drama, Comedy",2025,7.8,"rape, post-traumatic stress disorder (ptsd), cat, professor, massachusetts, melancholy, female friendship, jury duty, female protagonist, pregnant woman, healing process, sexual assault, meditative, female teacher, cautionary, student mentor relationship, independent film, grad school, nonbinary director, debut feature",English,"Sorry, Baby",Eva Victor,Eva Victor,Naomi Ackie,Lucas Hedges
 "Action, Thriller",2025,,,English,Off the Grid,Johnny Martin,Josh Duhamel,Greg Kinnear,María Elisa Camargo
-"Action, Thriller, Drama",2025,,"mercenary, sequel, mount everest, aggressive",English,Ice Road: Vengeance,Jonathan Hensleigh,Liam Neeson,Fan Bingbing,Bernard Curry
-"Crime, Thriller, Drama",2025,,"drug dealer, new jersey, sexuality, laundromat, on the run, pregnant woman, lgbt, valentine's day, sex worker, gender identity, sick father, intersex, father son relationship, based on short, independent film",English,Ponyboi,Esteban Arango,River Gallo,Dylan O'Brien,Victoria Pedretti
-"Horror, Thriller",2025,,,English,Please Don't Feed the Children,Destry Allyn Spielberg,Michelle Dockery,Regan Aliyah,Zoe Colletti
+"Action, Thriller, Drama",2025,4.8,"mercenary, sequel, mount everest, aggressive",English,Ice Road: Vengeance,Jonathan Hensleigh,Liam Neeson,Fan Bingbing,Bernard Curry
+"Crime, Thriller, Drama",2025,5.8,"drug dealer, new jersey, sexuality, laundromat, on the run, pregnant woman, lgbt, valentine's day, sex worker, gender identity, sick father, intersex, father son relationship, based on short, independent film",English,Ponyboi,Esteban Arango,River Gallo,Dylan O'Brien,Victoria Pedretti
+"Horror, Thriller",2025,4.9,,English,Please Don't Feed the Children,Destry Allyn Spielberg,Michelle Dockery,Regan Aliyah,Zoe Colletti
 Comedy,2020,,,English,Stealing Pulp Fiction,Danny Turkiewicz,Jon Rudnitsky,Cazzie David,Karan Soni
 "Action, Horror, Thriller",2025,,"teleportation, rock climbing, aborigine, falling, superhuman abilities, black eyes",English,The Sound,Brendan Devane,William Fichtner,Marc Hills,Jocelyn Hudon
-"Science Fiction, Adventure, Action",2025,,"island, secret mission, stranded, dinosaur, amused",English,Jurassic World Rebirth,Gareth Edwards,Scarlett Johansson,Mahershala Ali,Jonathan Bailey
+"Science Fiction, Adventure, Action",2025,6.2,"island, secret mission, stranded, dinosaur, genetic experiment, pathetic, absurd",English,Jurassic World Rebirth,Gareth Edwards,Scarlett Johansson,Mahershala Ali,Jonathan Bailey
 "Action, Fantasy",2025,,"immortality, based on comic, interracial romance, lgbt, found family, queer, gay theme, action adventure, body horror",English,The Old Guard 2,Victoria Mahoney,Charlize Theron,KiKi Layne,Matthias Schoenaerts
-"Action, Thriller, Comedy",2025,,"usa president, head of state, mi6, british prime minister, admiring",English,Heads of State,Ilya Naishuller,John Cena,Idris Elba,Priyanka Chopra
-"Adventure, Comedy, Family",2025,,"based on cartoon, children's adventure, based on tv series, exciting",English,Dora and the Search for Sol Dorado,Alberto Belli,Samantha Lorraine,Jacob Rodriguez,Daniella Pineda
-"Science Fiction, Comedy, Action",2024,,"galaxy, alien, space, planet, spaceship, survivor, asteriod",English,Long Distance,Will Speck,Anthony Ramos,Naomi Scott,Kristofer Hivju
+"Action, Thriller, Comedy",2025,6.5,"usa president, head of state, mi6, british prime minister, hilarious, amused",English,Heads of State,Ilya Naishuller,John Cena,Idris Elba,Priyanka Chopra
+"Adventure, Comedy, Family",2025,,"based on cartoon, children's adventure, based on tv series, exciting, brisk",English,Dora and the Search for Sol Dorado,Alberto Belli,Samantha Lorraine,Jacob Rodriguez,Daniella Pineda
+"Science Fiction, Comedy, Action",2024,5.7,"galaxy, alien, space, planet, spaceship, survivor, asteriod",English,Long Distance,Will Speck,Anthony Ramos,Naomi Scott,Kristofer Hivju
 "Drama, Thriller",2025,,"sexual obsession, older woman younger man relationship",English,Pretty Thing,Justin Kelly,Alicia Silverstone,Karl Glusman,Tammy Blanchard
-"Music, Adventure, Romance, Comedy, Family",2025,,"vampire, college, musical, road trip, sequel, zombie, summer vacation, teenage romance, interspecies romance, tv movie",English,Zombies 4: Dawn of the Vampires,Paul Hoen,Milo Manheim,Meg Donnelly,Chandler Kinney
-"Science Fiction, Adventure, Action",2025,,"hero, superhero, villain, based on comic, aftercreditsstinger, duringcreditsstinger, supervillain, dc universe (dcu), cheerful",English,Superman,James Gunn,David Corenswet,Rachel Brosnahan,Nicholas Hoult
-"Comedy, Drama",2025,,"bahamas, dysfunctional family, destination wedding",English,Madea's Destination Wedding,Tyler Perry,Tyler Perry,Cassi Davis Patton,David Mann
-,2025,,,English,Skillhouse,Josh Stolberg,50 Cent,Bryce Hall,Hannah Stocking
-"Crime, Drama, Thriller",2025,,"police chief, true crime, police standoff, sovereignty, manhunt, father son relationship, drama, action, crime, tribeca, inspired by, sovereign citizen",English,Sovereign,Christian Swegal,Nick Offerman,Jacob Tremblay,Dennis Quaid
-"Animation, Family, Fantasy",2025,,"musical, portal, based on comic, live action and animation, estranged brother, abduction, mocking, fantasy comedy",English,Smurfs,Chris Miller,Rihanna,James Corden,Nick Offerman
-"Horror, Mystery, Thriller",2025,,"sequel, murder, slasher, killer, horror, requel, teen scream",English,I Know What You Did Last Summer,Jennifer Kaytin Robinson,Madelyn Cline,Chase Sui Wonders,Jonah Hauer-King
-"Western, Drama, Comedy",2025,,"new mexico, dark comedy, satire, satirical, covid-19",English,Eddington,Ari Aster,Joaquin Phoenix,Pedro Pascal,Luke Grimes
-"Mystery, Comedy, Thriller",2024,,"dark comedy, bartender, cocktail, grief",English,Atrabilious,William Atticus Parker,Leon Addison Brown,Whoopi Goldberg,Alec Baldwin
+"Music, Adventure, Romance, Comedy, Family",2025,5.6,"vampire, college, musical, road trip, sequel, zombie, summer vacation, teenage romance, interspecies romance, tv movie",English,Zombies 4: Dawn of the Vampires,Paul Hoen,Milo Manheim,Meg Donnelly,Chandler Kinney
+"Science Fiction, Adventure, Action",2025,7.6,"hero, superhero, villain, based on comic, alien, alter ego, aftercreditsstinger, duringcreditsstinger, supervillain, inspirational, dc universe (dcu), cheerful, comforting, joyful",English,Superman,James Gunn,David Corenswet,Rachel Brosnahan,Nicholas Hoult
+"Comedy, Drama",2025,5.0,"bahamas, dysfunctional family, destination wedding",English,Madea's Destination Wedding,Tyler Perry,Tyler Perry,Cassi Davis Patton,David Mann
+"Crime, Drama, Thriller",2025,6.4,"police chief, true crime, police standoff, sovereignty, manhunt, father son relationship, drama, action, crime, tribeca, inspired by, sovereign citizen",English,Sovereign,Christian Swegal,Nick Offerman,Jacob Tremblay,Thomas Mann
+Horror,2025,4.9,,English,Skillhouse,Josh Stolberg,50 Cent,Bryce Hall,Hannah Stocking
+"Horror, Mystery, Thriller",2025,,"harpoon, sequel, murder, serial killer, slasher, hook, killer, fourth of july, horror, holiday horror, teen scream",English,I Know What You Did Last Summer,Jennifer Kaytin Robinson,Madelyn Cline,Chase Sui Wonders,Jonah Hauer-King
+"Animation, Family, Fantasy",2025,4.6,"musical, portal, based on comic, shocking, live action and animation, estranged brother, abduction, mocking, fantasy comedy",English,Smurfs,Chris Miller,Rihanna,James Corden,Nick Offerman
+"Western, Comedy, Drama",2025,6.6,"small town, sheriff, husband wife relationship, new mexico, mayor, dark comedy, protest, satire, murder, shootout, satirical, covid-19",English,Eddington,Ari Aster,Joaquin Phoenix,Pedro Pascal,Luke Grimes
+"Mystery, Comedy, Thriller",2024,7.4,"dark comedy, bartender, cocktail, grief",English,Atrabilious,William Atticus Parker,Leon Addison Brown,Whoopi Goldberg,Alec Baldwin
 "Action, Comedy",2025,,"husband wife relationship, diner, accidental death, family, knife fight, one eyed man, haunted by the past, gun fight, action comedy, ex policeman",English,Guns Up,Edward Drake,Kevin James,Christina Ricci,Maximilian Osinski
-"Thriller, Horror",2025,,,English,Saint Clare,Mitzi Peirone,Bella Thorne,Rebecca De Mornay,Ryan Phillippe
-"Horror, Science Fiction",2024,,"alien, alien invasion",English,Ick,Joseph Kahn,Brandon Routh,Malina Weissman,Jeff Fahey
-"Science Fiction, Adventure",2025,,"superhero, based on comic, family, alternative reality, marvel cinematic universe (mcu), 1960s, retrofuturism, marvel",English,The Fantastic Four: First Steps,Matt Shakman,Pedro Pascal,Vanessa Kirby,Ebon Moss-Bachrach
+"Thriller, Horror",2025,7.7,,English,Saint Clare,Mitzi Peirone,Bella Thorne,Rebecca De Mornay,Ryan Phillippe
+"Western, Crime, Thriller",2025,,,English,Guns & Moses,Salvador Litvak,Mark Feuerstein,Neal McDonough,Alona Tal
+"Horror, Science Fiction",2024,5.5,"alien, alien invasion",English,Ick,Joseph Kahn,Brandon Routh,Malina Weissman,Jeff Fahey
+"Science Fiction, Adventure",2025,,"superhero, based on comic, family, alternative reality, marvel cinematic universe (mcu), 1960s, retrofuturism",English,The Fantastic Four: First Steps,Matt Shakman,Pedro Pascal,Vanessa Kirby,Ebon Moss-Bachrach
 Comedy,2025,,"golf, sequel, sports comedy",English,Happy Gilmore 2,Kyle Newacheck,Adam Sandler,Julie Bowen,Dennis Dugan
-"Horror, Thriller, Mystery",2025,,retirement home,English,The Home,James DeMonaco,Pete Davidson,John Glover,Bruce Altman
+"Horror, Mystery, Thriller",2025,,retirement home,English,The Home,James DeMonaco,Pete Davidson,John Glover,Bruce Altman
 "Comedy, Romance",2025,,,English,"Oh, Hi!",Sophie Brooks,Molly Gordon,Logan Lerman,Geraldine Viswanathan
 "Science Fiction, Action, Horror",2025,,"spacecraft, special forces",English,Osiris,William Kaufman,Max Martini,Brianna Hildebrand,LaMonica Garrett
 "Comedy, Animation",2023,,"stop motion, cardboard, diy, papercut animation, sesc, object animation, short film, independent film, animation, gay director, comedy",pt,Et Tu,Max Tzannes,Lou Diamond Phillips,Malcolm McDowell,Antwone Barnes
 Drama,2023,,,English,Snorkeling,Emil Nava,Kristine Froseth,Daniel Zolghadri,Tim Johnson Jr.
 "Science Fiction, Thriller, Drama",2025,,"arizona, addiction, space, desert, stars, phoenix lights",English,Star People,Adam Finberg,Kat Cunning,McCabe Slye,Eddie Martinez
-"Drama, Comedy",2021,,"marriage, lockdown, pandemic, relationships, covid-19, parents and child",English,Together,Michael Shanks,Dave Franco,Alison Brie,Damon Herriman
+"Science Fiction, Thriller, Horror, Comedy",2024,,,English,The A-Frame,Calvin Lee Reeder,Johnny Whitworth,Dana Namerode,Nik Dodani
+"Drama, Comedy",2021,6.2,"marriage, lockdown, pandemic, relationships, covid-19, parents and child",English,Together,Michael Shanks,Dave Franco,Alison Brie,Damon Herriman
 "Family, Comedy, Crime, Adventure, Animation",2025,,"based on novel or book, snake, wolf, spider, villain, sequel, heist, anthropomorphism, framed for a crime",English,The Bad Guys 2,Pierre Perifel,Sam Rockwell,Marc Maron,Craig Robinson
-"Comedy, Crime",2025,,"sequel, slapstick comedy, reboot, action comedy",English,The Naked Gun,Akiva Schaffer,Liam Neeson,Pamela Anderson,Paul Walter Hauser
+"Action, Comedy, Crime",2025,,"sequel, slapstick comedy, reboot, action comedy",English,The Naked Gun,Akiva Schaffer,Liam Neeson,Pamela Anderson,Paul Walter Hauser
 "Thriller, Action, Crime",2025,,based on novel or book,English,She Rides Shotgun,Nick Rowland,Taron Egerton,Ana Sophia Heger,Rob Yang
 "Romance, Comedy, Drama",2025,,"based on novel or book, oxford university",English,My Oxford Year,Iain Morris,Sofia Carson,Corey Mylchreest,Dougray Scott
+"Action, Comedy",2025,,,English,Trouble Man,Michael Jai White,Michael Jai White,Method Man,Mike Epps
 "Comedy, Fantasy, Adventure",2025,,,English,Sketch,Seth Worley,Tony Hale,D'Arcy Carden,
 "Comedy, Action, Crime",2025,,"ограбление, броневик, организованная преступность, автомобильная погоня, перестрелка",English,The Pickup,Tim Story,Eddie Murphy,Pete Davidson,Eva Longoria
-"Family, Fantasy, Comedy",2025,,"body exchange, sequel, body-swap, mother daughter relationship",English,Freakier Friday,Nisha Ganatra,Jamie Lee Curtis,Lindsay Lohan,Julia Butters
+"Fantasy, Comedy, Family",2025,,"based on novel or book, body exchange, sequel, body-swap, mother daughter relationship",English,Freakier Friday,Nisha Ganatra,Jamie Lee Curtis,Lindsay Lohan,Julia Butters
 "Horror, Mystery",2025,,"witchcraft, missing child, multiple storylines, mysterious disappearance",English,Weapons,Zach Cregger,Josh Brolin,Julia Garner,Alden Ehrenreich
 Drama,2025,,,English,My Mother's Wedding,Kristin Scott Thomas,Scarlett Johansson,Sienna Miller,Emily Beecham
-"Thriller, Crime",2021,,,English,Fixed,Genndy Tartakovsky,Adam DeVine,Idris Elba,Kathryn Hahn
+,,7.8,,English,Strange Harvest,Stuart Ortiz,Peter Zizzo,Terri Apple,Andrew Lauer
+,,,,English,The Occupant,Hugo Keijzer,Ella Balinska,Stuart Graham,Rob Delaney
+"Animation, Comedy",2025,,"dog, adult animation",English,Fixed,Genndy Tartakovsky,Adam DeVine,Idris Elba,Kathryn Hahn
 "Action, Thriller",2025,,"assassin, dark comedy, sequel, revenge, one man army, family vacation",English,Nobody 2,Timo Tjahjanto,Bob Odenkirk,Connie Nielsen,John Ortiz
-"Action, Comedy, Crime",2025,,"dark comedy, artifact, south dakota",English,Americana,Tony Tost,Sydney Sweeney,Paul Walter Hauser,Halsey
+"Action, Comedy, Crime",2025,6.3,"dark comedy, artifact, south dakota",English,Americana,Tony Tost,Sydney Sweeney,Paul Walter Hauser,Halsey
 "Drama, Music",2025,,,English,Clika,Michael Greene,Jay Dee,Cristian Gutierrez,Daniel Lopez
-"Adventure, Action, Fantasy",2025,,"monster, swordplay, villainess, queen, talisman, based on comic, high fantasy, female warrior, sword and sorcery, epic fantasy",English,Red Sonja,M. J. Bassett,Matilda Lutz,Wallis Day,Robert Sheehan
-"Action, Comedy, Thriller",2025,,"revenge, drug war, comedy, action, undercover agents",English,Under Fire,Steven C. Miller,Dylan Sprouse,Mason Gooding,Emilio Rivera
+"Adventure, Action, Fantasy",2025,,"monster, swordplay, villainess, queen, talisman, based on comic, high fantasy, female warrior, sword and sorcery, epic fantasy, фэнтези",English,Red Sonja,M. J. Bassett,Matilda Lutz,Wallis Day,Robert Sheehan
 Comedy,2025,,,English,The Knife,Nnamdi Asomugha,Nnamdi Asomugha,Melissa Leo,Aja Naomi King
-"Drama, Western",2025,,,English,East of Wall,Kate Beecroft,Tabatha Zimiga,Porshia Zimiga,Scoot McNairy
-Horror,2025,,"witch, magic, new orleans, louisiana, witch burning, supernatural, plantation, paranormal, remake, witchcraft, occult, demonic possession, occult horror, wicca, 17th century, cursed, present day, wiccan, haunted, divination, supernatural horror, coven, hex, psychological descent, spirit world, dark rituals, pendulum board, summoning spirits, spellbound",English,Witchboard,Chuck Russell,Jamie Campbell Bower,Madison Iseman,Aaron Dominguez
+"Drama, Western",2025,7.9,,English,East of Wall,Kate Beecroft,Tabatha Zimiga,Porshia Zimiga,Scoot McNairy
+"Action, Comedy, Thriller",2025,,"revenge, drug war, comedy, action, undercover agents",English,Under Fire,Steven C. Miller,Dylan Sprouse,Mason Gooding,Emilio Rivera
+Horror,2025,8.1,"witch, magic, new orleans, louisiana, witch burning, supernatural, plantation, paranormal, remake, witchcraft, occult, demonic possession, occult horror, wicca, 17th century, cursed, present day, wiccan, haunted, divination, supernatural horror, coven, hex, psychological descent, spirit world, dark rituals, pendulum board, summoning spirits, spellbound",English,Witchboard,Chuck Russell,Jamie Campbell Bower,Madison Iseman,Aaron Dominguez
 "Horror, Science Fiction",2025,,"alien, alien abduction, filmmaker, sci-fi horror",English,Jimmy and Stiggs,Joe Begos,Joe Begos,Matt Mercer,Riley Dandy
+"Drama, Crime, Thriller",2025,,gentrification,English,Night Always Comes,Benjamin Caron,Vanessa Kirby,Jennifer Jason Leigh,Zack Gottsagen
+"Romance, Drama",2025,,"based on novel or book, romance, coming of age, meet cute, chance meeting, adaptation, love and loss",English,The Map That Leads to You,Lasse Hallström,Madelyn Cline,KJ Apa,Sofia Wylie
 "Horror, Thriller",2025,,"clown, state fair, haunted, carnival worker",English,Hell House LLC: Lineage,Stephen Cognetti,Elizabeth Vermilyea,Searra Sawka,Mike Sutton
 "Crime, Comedy, Mystery",2025,,"small town, dark comedy, private investigator, church, lgbt, reverend, mysterious death",English,Honey Don't!,Ethan Coen,Margaret Qualley,Aubrey Plaza,Charlie Day
 "Crime, Thriller, Drama",2025,,"new york city, based on novel or book, ransom, remake, based on movie, moral dilemma",English,Highest 2 Lowest,Spike Lee,Denzel Washington,Jeffrey Wright,Ilfenesh Hadera
-"Thriller, Drama",2024,,,English,Eden,Ron Howard,Jude Law,Ana de Armas,Vanessa Kirby
+"Thriller, Drama",2025,6.6,,English,Eden,Ron Howard,Jude Law,Ana de Armas,Vanessa Kirby
 "Thriller, Action, Comedy",2025,,,English,Eenie Meanie,Shawn Simmons,Samara Weaving,Karl Glusman,Jermaine Fowler
 "Comedy, Drama",2025,,,English,Splitsville,Michael Angelo Covino,Dakota Johnson,Adria Arjona,Kyle Marvin
 "Thriller, Drama",2025,,,English,Relay,David Mackenzie,Riz Ahmed,Lily James,Sam Worthington
@@ -268,77 +275,83 @@ Romance,2011,,"flirt, forbidden love, attraction, deceit, courtship, hamburg, ge
 "Mystery, Comedy",2025,,"murder mystery, septuagenarian",English,The Thursday Murder Club,Chris Columbus,Helen Mirren,Pierce Brosnan,Ben Kingsley
 "Crime, Thriller, Comedy",2025,,"new york city, based on novel or book, baseball, 1990s, black comedy",English,Caught Stealing,Darren Aronofsky,Austin Butler,Regina King,Zoë Kravitz
 "Comedy, Drama",2025,,"husband wife relationship, based on novel or book, dark comedy, remake",English,The Roses,Jay Roach,Benedict Cumberbatch,Olivia Colman,Andy Samberg
-"Action, Comedy, Science Fiction",1984,,"pollution, corruption, new jersey, sadism, superhero, anti hero, mayor, bullying, grindhouse, revenge, murder, toxic, person on fire, workout, health club, rabid anger, disfigured face, superhero spoof, strong man, car run over, shock humor, public humiliation, vigilantism, absurdist, blind woman, toxic waste, lighthearted, absurdist humor, absurd, ridiculous",English,The Toxic Avenger,Macon Blair,Peter Dinklage,Jacob Tremblay,Taylour Paige
+"Action, Comedy, Horror, Science Fiction",2025,6.0,"new jersey, superhero, mutant, remake, janitor, reboot, tromaville, troma, violent",English,The Toxic Avenger,Macon Blair,Peter Dinklage,Jacob Tremblay,Taylour Paige
+Drama,2025,7.1,"north carolina, family drama, love affair, parenting, daughter–in–law",English,A Little Prayer,Angus MacLachlan,David Strathairn,Jane Levy,Celia Weston
 Horror,2025,,"supernatural, haunted house, sequel, spirit, paranormal investigation, ghost, 1980s, demonic, supernatural horror, horror, the conjuring universe",English,The Conjuring: Last Rites,Michael Chaves,Vera Farmiga,Patrick Wilson,Mia Tomlinson
 Comedy,2025,,"male friendship, bereavement, loss of brother, gay theme, boys' love (bl), twin separation",English,Twinless,James Sweeney,Dylan O'Brien,James Sweeney,Aisling Franciosi
 "Comedy, Romance, Drama",2025,,"pregnancy, babysitter, arkansas, wedding, gay marriage, threesome",English,The Threesome,Chad Hartigan,Zoey Deutch,Jonah Hauer-King,Ruby Cruz
+"Comedy, Drama",2025,,,English,The Baltimorons,Jay Duplass,Michael Strassner,Liz Larsen,Olivia Luccardi
 Drama,2020,,"road trip, women's issues, mother and daughter",English,Pools,Sam Hayes,Odessa A'zion,Mason Gooding,Michael Vlamis
+Drama,2025,,"new york city, undocumented immigrant, juvenile detention center",English,Preparation for the Next Life,Bing Liu,Fred Hechinger,Sebiye Behtiyar,
 "Animation, Fantasy, Drama, Music",2025,,"bible, religious film, jesus christ, christian film, christian faith",English,Light of the World,Tom Bancroft,David Kaye,Adam Kozlick,
 "Drama, Romance, History",2025,,"sequel, historical fiction, aristocrat, historical drama, aristocracy, 1930s, series finale, downton abbey, based on tv series, multi generational, 20th century",English,Downton Abbey: The Grand Finale,Simon Curtis,Simon Russell Beale,Hugh Bonneville,Laura Carmichael
 "Horror, Science Fiction",2025,,"based on novel or book, dystopia, coming of age, literary adaptation, psychological horror",English,The Long Walk,Francis Lawrence,Cooper Hoffman,David Jonsson,Garrett Wareing
-"Music, Comedy",2025,,"satire, sequel, mockumentary, rock band, media satire",English,Spinal Tap II: The End Continues,Rob Reiner,Christopher Guest,Michael McKean,Harry Shearer
+"Music, Comedy",2025,,"satire, sequel, mockumentary, reunion, rock band, estranged, media satire, bandmates",English,Spinal Tap II: The End Continues,Rob Reiner,Christopher Guest,Michael McKean,Harry Shearer
 "Drama, Romance, Music",2025,,"world war i, folk music, lgbt, gay romance, gay theme",English,The History of Sound,Oliver Hermanus,Paul Mescal,Josh O'Connor,Molly Price
 "Comedy, Romance",2025,,dating show,English,The Wrong Paris,Janeen Damian,Miranda Cosgrove,Pierson Fodé,Madison Pettis
-Drama,2011,,,Dutch,Code 3,Christopher Leone,Rainn Wilson,Lil Rel Howery,Aimee Carrero
+Drama,2011,6.2,,Dutch,Code 3,Christopher Leone,Rainn Wilson,Lil Rel Howery,Aimee Carrero
 "Horror, Mystery",2025,,"american football, cult, athletics, satanic, horror",English,Him,Justin Tipping,Marlon Wayans,Tyriq Withers,Julia Fox
 "Drama, Romance, Fantasy",2025,,journey,English,A Big Bold Beautiful Journey,Kogonada,Margot Robbie,Colin Farrell,Kevin Kline
 "Action, Thriller, Comedy, Crime",2025,,"south africa, teenage boy, contract killer, action comedy, comedy thriller",English,London Calling,Allan Ungar,Josh Duhamel,Rick Hoffman,Jeremy Ray Taylor
 Drama,2025,,"based on novel or book, grandparent grandchild relationship, coming of age, death of mother, finland",English,The Summer Book,Charlie McDowell,Glenn Close,Emily Matthews,Anders Danielsen Lie
-"War, Drama",1954,,"prisoner of war, crucifixion, drunkenness, false confession",English,Prisoner of War,Louis Mandylor,Scott Adkins,Peter Shinkoda,Donald Cerrone
-"Adventure, Drama, Mystery",2025,,,English,Xeno,Matthew Loren Oates,Lulu Wilson,Omari Hardwick,Paul Schneider
+"War, Drama",1954,5.0,"prisoner of war, crucifixion, drunkenness, false confession",English,Prisoner of War,Louis Mandylor,Scott Adkins,Peter Shinkoda,Donald Cerrone
+"Drama, Romance, Crime",2025,,"entrapment, ex-girlfriend, based on true story, death of father, grief, undercover cop, mall, lgbt, hookup, 1990s, syracuse, new york, closeted homosexual, mother son relationship, gay theme",English,Plainclothes,Carmen Emmi,Russell Tovey,Tom Blyth,Amy Forsyth
 Comedy,2024,,,English,Doin' It,Sara Zandieh,Lilly Singh,Sonia Dhillon Tully,Sabrina Jalees
-"Drama, Comedy, Thriller",2025,,"based on novel or book, pregnant woman, missing daughter, black comedy",English,One Battle After Another,Paul Thomas Anderson,Leonardo DiCaprio,Sean Penn,Benicio del Toro
-"Family, Fantasy, Comedy, Adventure, Animation",2025,,"musical, live action and animation, based on tv series",English,Gabby's Dollhouse: The Movie,Ryan Crego,Laila Lockhart Kraner,Ego Nwodim,Kyle Mooney
-"Horror, Thriller",2025,,sequel,English,The Strangers – Chapter 2,Renny Harlin,Madelaine Petsch,Gabriel Basso,Ema Horvath
-"Comedy, Action, Romance",2020,,,Malay,All of You,William Bridges,Brett Goldstein,Imogen Poots,Zawe Ashton
-Documentary,2002,,"sports, extreme sports, drug addiction, mixed martial arts (mma), cage fighting, fighting, combat sports, pro wrestler, striker, ultimate fighting championship (ufc), octogon, pride fighting championships",English,The Smashing Machine,Benny Safdie,Dwayne Johnson,Emily Blunt,Ryan Bader
-Drama,1968,,,French,Anemone,Ronan Day-Lewis,Daniel Day-Lewis,Sean Bean,Samuel Bottomley
-"Horror, Mystery",2025,,"ohio, paranormal, paranormal investigation, found footage, supernatural horror, horror",English,Shelby Oaks,Chris Stuckmann,Camille Sullivan,Brendan Sexton III,Michael Beach
+"Adventure, Drama, Mystery",2025,,,English,Xeno,Matthew Loren Oates,Lulu Wilson,Omari Hardwick,Paul Schneider
+"Drama, Comedy, Thriller",2025,,"based on novel or book, pregnant woman, missing daughter, father daughter relationship, black comedy",English,One Battle After Another,Paul Thomas Anderson,Leonardo DiCaprio,Sean Penn,Benicio del Toro
+"Family, Fantasy, Comedy, Adventure",2025,,"musical, live action and animation, based on tv series",English,Gabby's Dollhouse: The Movie,Ryan Crego,Laila Lockhart Kraner,Ego Nwodim,Kyle Mooney
+Horror,2025,,sequel,English,The Strangers – Chapter 2,Renny Harlin,Madelaine Petsch,Gabriel Basso,Ema Horvath
+Drama,2025,,,English,Eleanor the Great,Scarlett Johansson,June Squibb,Chiwetel Ejiofor,Jessica Hecht
+"Comedy, Action, Romance",2020,4.1,,Malay,All of You,William Bridges,Brett Goldstein,Imogen Poots,Zawe Ashton
+Documentary,2002,7.7,"sports, extreme sports, drug addiction, mixed martial arts (mma), cage fighting, fighting, combat sports, pro wrestler, striker, ultimate fighting championship (ufc), octogon, pride fighting championships",English,The Smashing Machine,Benny Safdie,Dwayne Johnson,Emily Blunt,Ryan Bader
+Drama,1968,6.6,,French,Anemone,Ronan Day-Lewis,Daniel Day-Lewis,Sean Bean,Samuel Bottomley
+"Horror, Mystery",2025,6.1,"ohio, paranormal, paranormal investigation, found footage, supernatural horror, horror",English,Shelby Oaks,Chris Stuckmann,Camille Sullivan,Brendan Sexton III,Michael Beach
 "Science Fiction, Adventure",2025,,"artificial intelligence (a.i.), computer program, real world",English,Tron: Ares,Joachim Rønning,Jared Leto,Greta Lee,Evan Peters
 "Crime, Drama, Comedy",2025,,"true crime, toy store, escaped prisoner",English,Roofman,Derek Cianfrance,Channing Tatum,Kirsten Dunst,LaKeith Stanfield
-Drama,2025,,,English,After the Hunt,Luca Guadagnino,Julia Roberts,Ayo Edebiri,Andrew Garfield
-Drama,1985,,"prison, based on novel or book, politics, homophobia, male homosexuality, torture, lgbt, gay theme",English,Kiss of the Spider Woman,Bill Condon,Jennifer Lopez,Diego Luna,Tonatiuh Elizarraraz
+"Drama, Thriller",2025,,"female protagonist, psychological thriller, college professor, accusation",English,After the Hunt,Luca Guadagnino,Julia Roberts,Ayo Edebiri,Andrew Garfield
+Drama,1985,7.3,"prison, based on novel or book, politics, homophobia, male homosexuality, torture, lgbt, gay theme",English,Kiss of the Spider Woman,Bill Condon,Jennifer Lopez,Diego Luna,Tonatiuh Elizarraraz
 Documentary,2024,,,English,Soul on Fire,Sean McNamara,William H. Macy,John Corbett,Joel Courtney
+,,,,,The Ballad of a Small Player,Edward Berger,Colin Farrell,Fala Chen,Deanie Ip
 "Horror, Thriller",2025,,"child abuse, winter, sequel, domestic abuse, serial killer, snow, camp, child kidnapping, masked villain, masked, supernatural horror, horror, thriller",English,Black Phone 2,Scott Derrickson,Ethan Hawke,Mason Thames,Madeleine McGraw
-Documentary,2016,,,English,Good Fortune,Aziz Ansari,Seth Rogen,Aziz Ansari,Keke Palmer
-"Adventure, Comedy, Romance",2002,,,German,Blue Moon,Richard Linklater,Ethan Hawke,Margaret Qualley,Bobby Cannavale
+Documentary,2016,7.8,,English,Good Fortune,Aziz Ansari,Seth Rogen,Aziz Ansari,Keke Palmer
+"Adventure, Comedy, Romance",2002,6.4,,German,Blue Moon,Richard Linklater,Ethan Hawke,Margaret Qualley,Bobby Cannavale
 "Drama, Crime",2025,,"1970s, massachusetts, art heist",English,The Mastermind,Kelly Reichardt,Josh O'Connor,Alana Haim,Hope Davis
 "History, Drama, Thriller",2025,,"nonviolent resistance, based on true story, anti-nazi resistance, historical drama, nsdap (nazi party), 1940s, courtroom drama, nazi germany",English,Truth & Treason,Matt Whitaker,Ewan Horrocks,Rupert Evans,Sean Mahon
-Drama,1975,,,English,Hedda,Nia DaCosta,Tessa Thompson,Imogen Poots,Tom Bateman
-"Action, Fantasy, Adventure",2025,,"martial arts, magic, ninja fighter, god, alternate dimension, ninja, fighting, based on video game, martial arts tournament, hand to hand combat",English,Mortal Kombat II,Simon McQuoid,Karl Urban,Adeline Rudolph,Jessica McNamee
+Drama,1975,6.4,,English,Hedda,Nia DaCosta,Tessa Thompson,Imogen Poots,Tom Bateman
+"Action, Fantasy, Adventure",2025,,"martial arts, magic, ninja fighter, sequel, god, alternate dimension, ninja, fighting, based on video game, martial arts tournament, struggling actor, hand to hand combat",English,Mortal Kombat II,Simon McQuoid,Karl Urban,Adeline Rudolph,Jessica McNamee
 "Drama, Music",2025,,"depression, based on novel or book, biography, mental health, singer-songwriter, 1980s",English,Springsteen: Deliver Me from Nowhere,Scott Cooper,Jeremy Allen White,Jeremy Strong,Paul Walter Hauser
 Drama,2025,,"based on novel or book, death of father, car crash, tragedy, family drama, death of husband, complex relationship, mother daughter relationship",English,Regretting You,Josh Boone,Allison Williams,Dave Franco,Mckenna Grace
-"Comedy, Science Fiction, Mystery, Crime",2025,,"saving the world, kidnapping, paranoia, remake, power politics, mental illness, hierarchy, absurdism, alien conspiracy, suspenseful",English,Bugonia,Yorgos Lanthimos,Emma Stone,Jesse Plemons,Alicia Silverstone
+"Comedy, Science Fiction, Crime",2025,,"saving the world, kidnapping, paranoia, remake, power politics, mental illness, hierarchy, absurdism, alien conspiracy, suspenseful",English,Bugonia,Yorgos Lanthimos,Emma Stone,Jesse Plemons,Alicia Silverstone
 "Thriller, War",2025,,"the white house, political thriller, political crisis",English,A House of Dynamite,Kathryn Bigelow,Idris Elba,Rebecca Ferguson,Gabriel Basso
 "Horror, Thriller, Mystery",2025,,,English,Bone Lake,Mercedes Bryce Morgan,Maddie Hasson,Marco Pigossi,Alex Roe
-"Drama, History",1996,,,French,Last Days,Justin Lin,Sky Yang,Radhika Apte,Ali Fardi
+"Drama, History",1996,7.0,,French,Last Days,Justin Lin,Sky Yang,Radhika Apte,Ali Fardi
 "Action, Science Fiction",2025,,"survival, outcast, alien planet, team up",English,Predator: Badlands,Dan Trachtenberg,Elle Fanning,Dimitrius Schuster-Koloamatangi,
-"Action, Science Fiction, Thriller",1987,,"based on novel or book, dystopia, hunting human beings, game show, on the run, totalitarian, prison break, paranoid, dark future, wrongly accused, death game, not too distant future, fight for life, authoritarian, stalkers, alternate future, crowd mentality, dystopian future",English,The Running Man,Edgar Wright,Glen Powell,Colman Domingo,Katy O'Brian
+"Action, Science Fiction, Thriller",1987,6.6,"based on novel or book, dystopia, hunting human beings, game show, on the run, totalitarian, prison break, paranoid, dark future, wrongly accused, death game, not too distant future, fight for life, authoritarian, stalkers, alternate future, crowd mentality, dystopian future",English,The Running Man,Edgar Wright,Glen Powell,Colman Domingo,Katy O'Brian
 Drama,2025,,"based on novel or book, based on true story, oil",English,Sarah's Oil,Cyrus Nowrasteh,Naya Desir-Johnson,Zachary Levi,Sonequa Martin-Green
 "Drama, Thriller, Comedy",2025,,"based on novel or book, female protagonist, woman director, postpartum depression",English,Die My Love,Lynne Ramsay,Jennifer Lawrence,Robert Pattinson,LaKeith Stanfield
 "History, Drama, Thriller",2025,,"based on novel or book, nuremberg trials, nuremberg, germany, post world war ii, historical drama, 1940s",English,Nuremberg,James Vanderbilt,Rami Malek,Russell Crowe,Michael Shannon
-"Drama, Romance",2025,,"coming out, bisexuality, north carolina, coming of age, conservative, lgbt, lgbt teen, woman director, teenage romance, disowned, based on young adult novel, non-binary, religious fanaticism",English,I Wish You All the Best,Tommy Dorfman,Corey Fogelmanis,Alexandra Daddario,Cole Sprouse
-"Drama, History",2025,,"new york city, photographer, 1970s, interview, biography, lgbt",English,Peter Hujar's Day,Ira Sachs,Ben Whishaw,Rebecca Hall,
+"Drama, Romance",2025,7.1,"coming out, bisexuality, north carolina, coming of age, conservative, lgbt, lgbt teen, woman director, teenage romance, disowned, based on young adult novel, non-binary, religious fanaticism",English,I Wish You All the Best,Tommy Dorfman,Corey Fogelmanis,Alexandra Daddario,Cole Sprouse
+"Drama, History",2025,6.5,"new york city, photographer, 1970s, interview, biography, lgbt",English,Peter Hujar's Day,Ira Sachs,Ben Whishaw,Rebecca Hall,
 "Thriller, Crime",2025,,"sequel, illusionist, team up",English,Now You See Me: Now You Don't,Ruben Fleischer,Jesse Eisenberg,Woody Harrelson,Dave Franco
-"Horror, Mystery",2025,,"woods, cabin, couple, anniversary, horror",English,Keeper,Osgood Perkins,Tatiana Maslany,Rossif Sutherland,
+Drama,2024,,"football (soccer), short film",English,Keeper,Osgood Perkins,Tatiana Maslany,Rossif Sutherland,
 "Drama, Comedy",2025,,,English,Jay Kelly,Noah Baumbach,George Clooney,Adam Sandler,Billy Crudup
 "Drama, Music, Animation",2024,,,xx,In Your Dreams,Alex Woo,Craig Robinson,Simu Liu,Cristin Milioti
-"Crime, Thriller, Horror, TV Movie",2023,,,English,Trap House,Michael Dowse,Dave Bautista,Sophia Lillis,Jack Champion
+"Crime, Thriller, Horror, TV Movie",2023,4.4,,English,Trap House,Michael Dowse,Dave Bautista,Sophia Lillis,Jack Champion
 "Fantasy, Romance",2025,,"witch, based on novel or book, musical, female friendship, based on play or musical, sequel, con artist, prequel, fantasy world, witch hunt, wizard, political corruption, power struggle, munchkins, friends to rivals",English,Wicked: For Good,Jon M. Chu,Cynthia Erivo,Ariana Grande,Jonathan Bailey
 "Action, War",2025,,sequel,fi,Sisu 2,Jalmari Helander,Jorma Tommila,Richard Brake,Stephen Lang
 Drama,2025,,"based on novel or book, railroad worker, pacific northwest",English,Train Dreams,Clint Bentley,Joel Edgerton,Felicity Jones,Kerry Condon
-"Drama, Romance, Family",2023,,,Japanese,Rental Family,Hikari,Brendan Fraser,Mari Yamamoto,Takehiro Hira
+"Drama, Comedy",2025,,"self-discovery, tokyo, japan, expatriate, actor",English,Rental Family,Hikari,Brendan Fraser,Mari Yamamoto,Takehiro Hira
 "Family, Comedy, Adventure, Animation, Crime",2025,,"sequel, anthropomorphism",English,Zootopia 2,Byron Howard,Ginnifer Goodwin,Jason Bateman,Ke Huy Quan
 "Drama, History",2025,,"based on novel or book, death of son",English,Hamnet,Chloé Zhao,Jessie Buckley,Paul Mescal,Emily Watson
 Comedy,2025,,"family, christmas",English,Oh. What. Fun.,Michael Showalter,Michelle Pfeiffer,Felicity Jones,Chloë Grace Moretz
 "Horror, Thriller",2025,,"dark comedy, sequel, based on video game, theme park, animatronic",English,Five Nights at Freddy's 2,Emma Tammi,Josh Hutcherson,Elizabeth Lail,Piper Rubio
 "Comedy, Drama",2025,,,English,Ella McCay,James L. Brooks,Emma Mackey,Woody Harrelson,Kumail Nanjiani
 "Comedy, Drama, Mystery",2025,,"detective, investigation, sequel, murder, whodunit, murder mystery",English,Wake Up Dead Man,Rian Johnson,Daniel Craig,Josh O'Connor,Glenn Close
-"Thriller, Horror",1984,,"holiday, santa claus, gore, murder, decapitation, serial killer, orphan, killer santa claus, christmas, person snapping, santa, santy",English,"Silent Night, Deadly Night",Mike P. Nelson,Rohan Campbell,Ruby Modine,Mark Acheson
+"Thriller, Horror",1984,5.8,"holiday, santa claus, gore, murder, decapitation, serial killer, orphan, killer santa claus, christmas, person snapping, santa, santy",English,"Silent Night, Deadly Night",Mike P. Nelson,Rohan Campbell,Ruby Modine,Mark Acheson
 "Science Fiction, Adventure, Fantasy",2025,,sequel,English,Avatar: Fire and Ash,James Cameron,Sam Worthington,Zoe Saldana,Sigourney Weaver
 "Family, Comedy, Adventure, Animation",2025,,based on cartoon,English,The SpongeBob Movie: Search for SquarePants,Derek Drymon,Tom Kenny,Bill Fagerbakke,Rodger Bumpass
 Drama,2025,,"bethlehem, virgin mary, biblical",English,Zero A. D.,Alejandro Gómez Monteverde,Deva Cassel,Sam Worthington,Ben Mendelsohn
-"Adventure, Horror, Thriller",1997,,"human vs nature, snake, predator, movie business, expedition, amazon rainforest, jungle, creature, hunting, anaconda, killer snake, riverboat, aggressive, amazon river, animal horror, suspenseful, killer expedition, rainforest river, river ravine",English,Anaconda,Tom Gormican,Jack Black,Paul Rudd,Daniela Melchior
+"Adventure, Horror, Thriller",1997,4.9,"human vs nature, snake, predator, movie business, expedition, amazon rainforest, jungle, creature, hunting, anaconda, killer snake, riverboat, aggressive, amazon river, animal horror, suspenseful, killer expedition, rainforest river, river ravine",English,Anaconda,Tom Gormican,Jack Black,Paul Rudd,Daniela Melchior
 "Thriller, Mystery",2025,,"based on novel or book, psychological thriller, adaptation, suspense, mystery, thriller",English,The Housemaid,Paul Feig,Sydney Sweeney,Amanda Seyfried,Brandon Sklenar
 Drama,2025,,"new york city, ping pong, 1950s, ensemble cast, sport",English,Marty Supreme,Josh Safdie,Timothée Chalamet,Gwyneth Paltrow,Tyler
 "Drama, Romance",2024,,"friendship, coming of age, lgbt, girls love, youth",zh,Song Sung Blue,Craig Brewer,Hugh Jackman,Kate Hudson,Michael Imperioli
